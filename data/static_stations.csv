@@ -1,0 +1,669 @@
+station_id,external_id,name,short_name,lat,lon,rental_methods,capacity,electric_bike_surcharge_waiver,is_charging,eightd_has_key_dispenser,has_kiosk
+5,3ea89109-d2f3-46eb-9c41-c43742050340,CE-407  Prolongación Xochicalco-General Emiliano Zapata,407,19.36726591257277,-99.15865559132271,"['KEY', 'CREDITCARD']",19,False,False,False,True
+6,ba78b703-4e5a-44bd-ab2c-1eedc71e11c3,CE-428  Prolongación Uxmal-Av. Popocatépetl (Eje 8),428,19.363404,-99.160395,"['KEY', 'CREDITCARD']",27,False,False,False,True
+7,6563d263-2342-46e3-8983-461e68d2d615,CE-427 Avenida México-Coyoacán-Av. Popocatépetl (Eje 8),427,19.364905637923787,-99.1629866883295,"['KEY', 'CREDITCARD']",19,False,False,False,True
+8,ec55e597-c8fc-4e86-bcfe-b0e81a494790,CE-443 Bruno Traven-Golondrinas,443,19.359583,-99.162085,"['KEY', 'CREDITCARD']",31,False,False,False,True
+9,a98c7fac-12ce-4895-923b-6b39f04721ca,CE-423 Moras-José María Rico (Eje 8),423,19.367816,-99.175269,"['KEY', 'CREDITCARD']",23,False,False,False,True
+10,ae1c2b82-7148-41c2-acd1-d9280241f87e,CE-438 Adolfo Prieto-José María Olloqui,438,19.36473,-99.174447,"['KEY', 'CREDITCARD']",23,False,False,False,True
+11,f6484d2e-8282-41e6-a023-1afb53dae580,CE-415 San Francisco-Parroquia,415,19.37099,-99.176135,"['KEY', 'CREDITCARD']",27,False,False,False,True
+12,90714c5e-7256-4744-a55d-9370f26d89bd,CE-417 Goya-Augusto Rodin,417,19.373198,-99.184274,"['KEY', 'CREDITCARD']",27,False,False,False,True
+14,1995f5cd-611e-4571-832d-57f4d19ffc57,CE-022 Reforma - Manchester,022,19.424784,-99.172119,"['KEY', 'CREDITCARD']",35,False,False,False,True
+15,2f3047ad-7725-4d23-9e59-3b98aeee9f3d,CE-094 Lic. Verdad-Moneda,094,19.433766,-99.130918,"['KEY', 'CREDITCARD']",23,False,False,False,True
+16,d821ac72-6eb9-47ba-8e9d-b288db2d99d1,CE-405 División Del Norte-Municipio Libre,405,19.370565558464016,-99.15662247688942,"['KEY', 'CREDITCARD']",27,False,False,False,True
+17,4f21a08a-24f2-465e-b8f3-5874d064e015,CE-375 Tenayuca-División Del Norte,375,19.376997,-99.158779,"['KEY', 'CREDITCARD']",23,False,False,False,True
+18,ac88b65c-7622-4b42-84bd-b9c3f36f7d22,CE-394 Dr. Roberto Gayol-Félix Cuevas,394,19.372474,-99.171639,"['KEY', 'CREDITCARD']",35,False,False,False,True
+19,08164fbf-ce81-4db0-9bf3-98845325dfa6,CE-337 San Borja-Martín Mendalde,337,19.384849,-99.16704,"['KEY', 'CREDITCARD']",19,False,False,False,True
+20,8c4eceec-211c-4064-b923-97c71f09b1a7,CE-412 Parroquia-Avenida Universidad,412,19.368107,-99.164376,"['KEY', 'CREDITCARD']",34,False,False,False,True
+21,616c0715-1a8e-492b-85cb-452f062ca42b,CE-381 San Lorenzo-Manzanas,381,19.375543381100602,-99.17801052342838,"['KEY', 'CREDITCARD']",23,False,False,False,True
+22,f9827216-5cfa-4eb1-a912-096b9545fa83,CE-332 Calle 27-Avenida 3,332,19.385494,-99.183744,"['KEY', 'CREDITCARD']",23,False,False,False,True
+23,ef08f966-4d87-4fdc-b783-287605e9c117,CE-399 Heriberto Frías-San Lorenzo,399,19.372469,-99.164538,"['KEY', 'CREDITCARD']",35,False,False,False,True
+24,78a8e829-3e75-40fd-9543-3ca0cbc15747,CE-377 Heriberto Frías-Miguel Laurent,377,19.375397,-99.163778,"['KEY', 'CREDITCARD']",35,False,False,False,True
+25,287e590f-e27b-4211-8fb5-9b11bd2fd0cd,CE-360 Heriberto Frías-Matias Romero,360,19.379435,-99.162794,"['KEY', 'CREDITCARD']",23,False,False,False,True
+26,d353123d-74b4-405b-8257-a61eb1d771ee,CE-362 Augusto Rodin-Alberto Balderas,362,19.382123281154726,-99.18109126394484,"['KEY', 'CREDITCARD']",19,False,False,False,True
+27,df57391d-94b4-497a-86f0-0681ef80704a,CE-365 Holbein-Avenida Revolución,365,19.381123,-99.18667,"['KEY', 'CREDITCARD']",21,False,False,False,True
+28,4129eb20-73b3-4e3b-b473-a939ab14156f,CE-424 Amores-José María Rico (Eje 8),424,19.367103332434564,-99.17058136315518,"['KEY', 'CREDITCARD']",11,False,False,False,True
+29,22226b72-86e9-4fb9-9f0c-38447c7daa97,CE-421 María Luz Bringas-Oso,421,19.36952,-99.179421,"['KEY', 'CREDITCARD']",31,False,False,False,True
+30,518b8a91-e2d4-4892-9bb5-caf4f558032f,CE-287 13 de Septiembre-Puente de la Morena,287,19.398946,-99.183254,"['KEY', 'CREDITCARD']",19,False,False,False,True
+31,4b75ed5c-e81b-4d75-a4ef-8dffce387fd9,CE-288 11 de Abril-Avenida 2,288,19.396339843986805,-99.1835709661791,"['KEY', 'CREDITCARD']",15,False,False,False,True
+32,7b33d340-464d-47ae-a07f-04d0785ad37b,CE-372 Dr. Roberto Gayol-Tlacoquemécatl,372,19.377966,-99.170272,"['KEY', 'CREDITCARD']",19,False,False,False,True
+33,b89266bb-5035-46c6-bec9-b2287ee9b396,CE-434 Jose María Olloqui-Amores,434,19.363698614576656,-99.17118497195588,"['KEY', 'CREDITCARD']",27,False,False,False,True
+34,df9f2e23-6015-45e3-be47-9681ee56bcb6,CE-439 Amores-Avenida Coyoacán,439,19.362037,-99.172683,"['KEY', 'CREDITCARD']",19,False,False,False,True
+35,ea8f9f3d-f51f-4e35-a8b1-689629a448a8,CE-378 Miguel Laurent-Amores,378,19.375865,-99.168219,"['KEY', 'CREDITCARD']",31,False,False,False,True
+36,ac8032f2-5d88-428b-8a26-32448c290d5b,CE-437 Moras-Comunal,437,19.364916,-99.175985,"['KEY', 'CREDITCARD']",19,False,False,False,True
+37,eac91559-8b08-4a23-8a13-b3a5cbc3397f,CE-374 Pitágoras-Pilares,374,19.376959,-99.161099,"['KEY', 'CREDITCARD']",31,False,False,False,True
+38,fbf45c04-d7b3-42e6-921a-6ba289aaee72,CE-384 Empresa-Poussin,384,19.375865,-99.185573,"['KEY', 'CREDITCARD']",23,False,False,False,True
+39,7bb63b63-4288-4f6d-99e0-34c7f805f315,CE-348 Indiana-Avenida San Antonio,348,19.3854574,-99.1782718,"['KEY', 'CREDITCARD']",19,False,False,False,True
+40,4771fd01-a609-4494-b5a0-9b9a13e62393,CE-397 San Lorenzo-Gabriel Mancera,397,19.37313576931919,-99.16706666355822,"['KEY', 'CREDITCARD']",31,False,False,False,True
+41,ad09be68-706a-477f-8860-fa91a86420d1,CE-353 Carolina-Holbein,353,19.3823345657493,-99.17888358246273,"['KEY', 'CREDITCARD']",23,False,False,False,True
+42,6546cc34-2240-4073-8d41-0db07cfdecde,CE-387 Cadiz-Empresa,387,19.374267,-99.180546,"['KEY', 'CREDITCARD']",19,False,False,False,True
+43,807e7b74-3786-4f1d-8aad-73e222ec9aee,CE-367 Boston -Augusto Rodin,367,19.379593,-99.181351,"['KEY', 'CREDITCARD']",19,False,False,False,True
+44,b45f855c-06ab-4564-b52b-90b8d1fcea9e,CE-390-391 Oso-Félix Cuevas,390-391,19.373161,-99.178243,"['KEY', 'CREDITCARD']",47,False,False,False,True
+45,4b57092e-7db3-4caa-be58-5fdfc56774e5,CE-303 Montecito-Av. Insurgentes,303,19.394861698080163,-99.17300574486944,"['KEY', 'CREDITCARD']",26,False,False,False,True
+46,0e0b8cec-c253-4edc-b46b-86030e5ce26d,CE-370 Tlacoquemécatl-Av. Insurgentes,370,19.378827,-99.176944,"['KEY', 'CREDITCARD']",31,False,False,False,True
+47,f60886eb-abc3-419f-93ad-a3486fb1d1df,CE-354 Boston-Av. Insurgentes,354,19.381714,-99.176664,"['KEY', 'CREDITCARD']",23,False,False,False,True
+48,8b8595c4-4b99-47c9-b9cb-18798af3aba7,CE-333 Georgia-Carolina,333,19.387624,-99.180978,"['KEY', 'CREDITCARD']",23,False,False,False,True
+49,6cf083a7-b9af-4498-8775-15139e0ab145,CE-445-446 Riff-Avenida Río Churubusco,445-446,19.35857050753971,-99.15610156956063,"['KEY', 'CREDITCARD']",59,False,False,False,True
+50,b397f192-fe32-41ee-8a51-3ecea31ae29f,CE-429 Pirineos-Av. Popocatépetl (Eje 8),429,19.363060918104924,-99.15833439679318,"['KEY', 'CREDITCARD']",19,False,False,False,True
+51,1aba47b5-d46a-458c-94cf-684cf9e264fc,CE-414 Parroquia-José Ignacio Bartolache,414,19.370213835587535,-99.17385498530166,"['KEY', 'CREDITCARD']",27,False,False,False,True
+52,de6d1b56-740c-49b8-8108-9fdc96b3e5be,CE-432 Carrillo Puerto-Avenida México-Coyoacan,432,19.361245,-99.16239,"['KEY', 'CREDITCARD']",35,False,False,False,True
+53,5fbb3ae5-290e-43e4-af63-ed7c998ddeb0,CE-358 Nicolás San Juan-Matias Romero,358,19.380087,-99.16427,"['KEY', 'CREDITCARD']",23,False,False,False,True
+55,2faf5722-7a40-40ae-a0d1-75a63476e819,CE-409 Azores - División Del Norte,409,19.3650233,-99.1554899,"['KEY', 'CREDITCARD']",23,False,False,False,True
+56,7304514a-8264-4fb6-aad0-ce2118bedd47,CE-413 Parroquia-Avenida Coyoacán,413,19.369823,-99.172164,"['KEY', 'CREDITCARD']",35,False,False,False,True
+57,5ca28951-6799-4211-a5a8-deb629d685bc,CE-345 Patricio Sanz - Miraflores,345,19.384447,-99.172039,"['KEY', 'CREDITCARD']",23,False,False,False,True
+58,78d97632-fd6b-4022-b01d-a1ea83d94d64,CE-419 Actipan-Cadiz,419,19.370615,-99.181606,"['KEY', 'CREDITCARD']",30,False,False,False,True
+59,4e82c891-1e00-4dec-b9ab-ec81464ffb97,CE-307 Minnesota-Dakota,307,19.393711808925048,-99.17581468826029,"['KEY', 'CREDITCARD']",27,False,False,False,True
+60,6eeb8ffb-d232-488a-bf54-6c654853ebca,CE-361 Porfirio Díaz-Capulín,361,19.380691,-99.175036,"['KEY', 'CREDITCARD']",27,False,False,False,True
+61,d01f4057-adb8-4d30-9053-a1ad6104338f,CE-393 Adolfo Prieto-Félix Cuevas,393,19.373307,-99.172471,"['KEY', 'CREDITCARD']",35,False,False,False,True
+62,e7f38a9a-1be2-4e4e-9634-11088af4b034,CE-306 Dakota-Minnesota,306,19.393699,-99.175664,"['KEY', 'CREDITCARD']",35,False,False,False,True
+63,cdf47baf-c2cf-404f-b4cf-e468133d1ea2,CE-349 Augusto Rodin-Avenida San Antonio,349,19.385632,-99.180848,"['KEY', 'CREDITCARD']",19,False,False,False,True
+64,d76624f9-ffe5-447a-ac53-f4406a6e3b95,CE-284 Dakota-Vermont,284,19.397693,-99.172981,"['KEY', 'CREDITCARD']",31,False,False,False,True
+65,1bceb889-ddef-4684-8c34-37abf921beb0,CE-308 Nueva York-Arizona,308,19.393643,-99.178156,"['KEY', 'CREDITCARD']",31,False,False,False,True
+66,bea8f5c8-049d-43bb-aeda-50ffb2cc601d,CE-312 Avenida 2-Calle 7,312,19.39270929935713,-99.18373167525715,"['KEY', 'CREDITCARD']",27,False,False,False,True
+67,b4e673b0-acd6-4c9c-bf8d-d9c1abf182e4,CE-325 Providencia -Avenida Del Valle,325,19.38817793281278,-99.16966706519814,"['KEY', 'CREDITCARD']",23,False,False,False,True
+68,04becea3-e1da-4eac-8e82-ff9089c18a51,CE-327 Georgia -Pensilvania,327,19.38885,-99.17772,"['KEY', 'CREDITCARD']",23,False,False,False,True
+69,f9a7d8f5-a7f5-4eac-8462-9fcf05a5ee7d,CE-335 Magdalena-Ameyalco,335,19.386989,-99.173438,"['KEY', 'CREDITCARD']",35,False,False,False,True
+70,50530ef1-e349-4c8c-9c2c-b266ed8915c4,CE-324 Amores-Avenida Eugenia,324,19.387342,-99.165629,"['KEY', 'CREDITCARD']",19,False,False,False,True
+71,48868fd7-00c1-4fd1-a5ea-1a1166c32af7,CE-59 Popocatépetl - Ámsterdam,059,19.415237,-99.16659,"['KEY', 'CREDITCARD']",35,False,False,False,True
+72,15d61e3f-42e9-4c7f-ba20-9ed831486bef,CE-072 Mazatlán - Alfonso Reyes,072,19.409859,-99.179565,"['KEY', 'CREDITCARD']",31,False,False,False,True
+73,6004a6f9-70ac-4502-bd79-4cf1afd12beb,CE-067 Vicente Suárez - Michoacán,067,19.411813726946605,-99.17595729242748,"['KEY', 'CREDITCARD']",23,False,False,False,True
+74,0ddcec99-0423-464d-a55a-2d9a31c402f4,CE-343 Enrique Rébsamen-División Del Norte,343,19.384086716282237,-99.16083633910603,"['KEY', 'CREDITCARD']",15,False,False,False,True
+75,df9b4cd6-4a77-4fc1-b971-82f69d3d3c9e,CE-330 Calle 15-Avenida Patriotismo,330,19.389358,-99.182606,"['KEY', 'CREDITCARD']",19,False,False,False,True
+76,dfdaccf3-2dda-4c7f-a08f-88e3950fa4ab,CE-315 Alabama-Montana,315,19.391444264426035,-99.17368702595921,"['KEY', 'CREDITCARD']",27,False,False,False,True
+77,b3368279-9b57-4e21-87f5-5282b2e0f20d,CE-341 San Borja-Avenida Cuauhtémoc,341,19.382889,-99.158352,"['KEY', 'CREDITCARD']",31,False,False,False,True
+78,93b437ec-ff3f-4347-b5c9-dbbd4310602a,CE-300 Providencia -Luz Saviñón,300,19.393228574754442,-99.16839435702059,"['KEY', 'CREDITCARD']",23,False,False,False,True
+79,546ac683-bcc0-4e6b-a7c2-c4b78784838d,CE-074 Nuevo León - Ozulama,074,19.410468,-99.172802,"['KEY', 'CREDITCARD']",35,False,False,False,True
+80,8e2c8be2-8d6f-4aa8-8890-8bb5e74c37aa,CE-042 Sinaloa - Valladolid,042,19.420627,-99.16821,"['KEY', 'CREDITCARD']",23,False,False,False,True
+81,3f96f1b6-d1a5-4f1b-b72e-b884fcce33ea,CE-076 Chilpancingo - Campeche,076,19.4086886,-99.169938,"['KEY', 'CREDITCARD']",19,False,False,False,True
+82,4d979ccb-028a-47fc-9329-d30c5534272b,CE-064 Sonora - Ámsterdam,064,19.412967269545486,-99.16692517703268,"['KEY', 'CREDITCARD']",27,False,False,False,True
+83,70c2bb2c-84e5-4db1-aeab-d16609d529c9,CE-056 Alvaro Obregón - Medellin,056,19.417102,-99.165607,"['KEY', 'CREDITCARD']",35,False,False,False,True
+84,3aeeb91f-79e9-4e5f-9a7c-0c24cd804417,CE-071 Amsterdam - Michoacan,071,19.411361,-99.171271,"['KEY', 'CREDITCARD']",35,False,False,False,True
+85,d4fa55f7-27b7-4b53-9b8f-78fdd931ad2e,CE-083 Alfonso Reyes - Nuevo León,083,19.40655,-99.172275,"['KEY', 'CREDITCARD']",15,False,False,False,True
+86,7527e2ef-453a-4d1e-ae0b-6079e5d83fb3,CE-081 Aguascalientes - Insurgentes,081,19.407927,-99.168734,"['KEY', 'CREDITCARD']",27,False,False,False,True
+87,06ca6c2d-f674-424c-9ee1-a697e00432da,CE-079 Saltillo - Alfonso Reyes,079,19.407548521979454,-99.17434785516434,"['KEY', 'CREDITCARD']",31,False,False,False,True
+88,aac84896-1549-42d1-aa76-8428008ffa5d,CE-128 Orizaba-Río de Janeiro,128,19.422148,-99.160645,"['KEY', 'CREDITCARD']",23,False,False,False,True
+89,156e5a27-a9e0-4c12-a758-b2115a0f1452,CE-049 Mazatlán - Juan de la Barrera,049,19.41689,-99.17562,"['KEY', 'CREDITCARD']",39,False,False,False,True
+90,a31f733c-7877-43c4-811a-eac54cc9053c,CE-066 Mazatlán - Francisco Márquez,066,19.411825,-99.178456,"['KEY', 'CREDITCARD']",27,False,False,False,True
+91,df051d4e-a60d-4d16-aed1-9e799a08c948,CE-040 Oaxaca - Puebla,040,19.42235098990008,-99.16417356581859,"['KEY', 'CREDITCARD']",23,False,False,False,True
+92,9598dfff-0c6e-41df-a221-ec2d00bbdec7,CE-053 Fernando Montes de Oca - Tula,053,19.4148233,-99.1783527,"['KEY', 'CREDITCARD']",15,False,False,False,True
+93,072b459f-c4ed-47c7-b49e-232c8880eb1f,CE-046 Durango - Salamanca,046,19.41910678068996,-99.16973479097578,"['KEY', 'CREDITCARD']",39,False,False,False,True
+94,2b7cd0d8-4082-4878-9f47-8107f89d465d,CE-447 Agustín Melgar-Zamora,447,19.418879,-99.176854,"['KEY', 'CREDITCARD']",27,False,False,False,True
+95,249214a8-d4dd-4900-96f9-2a80a011aa5a,CE-060 Mazatlán - Fernando Montes de Oca,060,19.414099314684794,-99.17715847497675,"['KEY', 'CREDITCARD']",39,False,False,False,True
+96,b9f09930-0db5-4605-ba51-430103eaf38f,CE-302 Luz Saviñón-Magdalena,302,19.393914210245562,-99.1716746986458,"['KEY', 'CREDITCARD']",39,False,False,False,True
+97,ae7b23d6-608e-4374-912f-8f2c5660f9b4,CE-070 Parque México - Michoacán,070,19.41128,-99.169825,"['KEY', 'CREDITCARD']",45,False,False,False,True
+98,77cf5164-4cc6-4887-a69b-031880630bfe,CE-125 Morelia-Circular de Morelia,125,19.424197,-99.156127,"['KEY', 'CREDITCARD']",35,False,False,False,True
+99,cf710fa9-1df7-4226-94af-6c8aca830f0a,CE-100 20 de Noviembre-Mesones,100,19.428485,-99.1338,"['KEY', 'CREDITCARD']",23,False,False,False,True
+100,7c9106aa-73d6-4a70-9d37-d646d3053cfe,CE-105 San Jerónimo-5 de Febrero,105,19.426755,-99.135014,"['KEY', 'CREDITCARD']",23,False,False,False,True
+101,f1020179-d76f-4eb4-876e-58a3c8c55727,CE-102 Echeveste-Bolivar,102,19.428214,-99.139494,"['KEY', 'CREDITCARD']",15,False,False,False,True
+102,83a2242f-4f3e-4efa-a5fc-cce2c1b5884a,CE-097 República de Salvador-Pino Suárez,097,19.429189,-99.132759,"['KEY', 'CREDITCARD']",27,False,False,False,True
+103,4e7fef7c-b4db-40df-92c8-67cf32fe86ef,CE-099 Ernesto Pugibet-Luis Moya,099,19.429947,-99.14591,"['KEY', 'CREDITCARD']",27,False,False,False,True
+104,b76512f0-9000-4800-8eda-83edd1ab21d2,CE-107-108 Tolsa-Balderas,107-108,19.427305,-99.149533,"['KEY', 'CREDITCARD']",59,False,False,False,True
+105,2f2e9c18-cf52-4188-9cf4-e3489ac0f04b,CE-122 José María Vértiz-Av. Dr. Río de la Loza,122,19.425502,-99.146337,"['KEY', 'CREDITCARD']",31,False,False,False,True
+106,4c654bef-0fd8-4375-be86-1d37bf0e391b,CE-029 Reforma - Bucareli,029,19.434944,-99.150295,"['KEY', 'CREDITCARD']",35,False,False,False,True
+107,5fabc85c-b2b7-4491-949e-f7510081aafe,CE-110 Dr. Valenzuela-Dr. Río de la loza,110,19.425126,-99.143391,"['KEY', 'CREDITCARD']",35,False,False,False,True
+108,3e34ce23-0a0e-430b-8f11-48acbd17bdb4,CE-093 Palma Norte-República de Cuba,093,19.436741,-99.134811,"['KEY', 'CREDITCARD']",35,False,False,False,True
+109,c52f5299-bba8-4a4b-aef8-197798ee6592,CE-091 Republica de Cuba-Allende,091,19.4374,-99.137571,"['KEY', 'CREDITCARD']",19,False,False,False,True
+110,783c3832-3550-4363-9072-7d0d8286a913,CE-112 Av. Morelos-Abraham González,112,19.432819,-99.151734,"['KEY', 'CREDITCARD']",23,False,False,False,True
+111,077687ba-b2d3-400f-96bf-c334adc5152a,CE-065 Marconi - Tacuba,065,19.436522,-99.139811,"['KEY', 'CREDITCARD']",19,False,False,False,True
+112,cce4f62a-7ffd-4b34-8ddd-8cc4e3cdb293,CE-088 2a Cerrada de 5 de Mayo - Palma,088,19.433757,-99.135331,"['KEY', 'CREDITCARD']",15,False,False,False,True
+113,5fb523c2-bc10-40bc-9183-f742cd6cb1c9,CE-003 Reforma - Insurgentes,003,19.43163,-99.158547,"['KEY', 'CREDITCARD']",31,False,False,False,True
+114,fb0f91cb-579a-47f7-87cd-52b580922633,CE-109 Nezahualcóyotl-Isabel la Católica,109,19.425311,-99.137421,"['KEY', 'CREDITCARD']",31,False,False,False,True
+115,b722c570-244b-4fd2-97a0-9731279ee03d,CE-113 General Prim-Versalles,113,19.430369,-99.154419,"['KEY', 'CREDITCARD']",15,False,False,False,True
+116,ffd6eec6-58e8-47ef-a9ee-0609df2cb972,CE-123 Claudio Bernard-Dr. Lavista,123,19.424161,-99.153117,"['KEY', 'CREDITCARD']",27,False,False,False,True
+117,e1221ebd-95d8-4967-9e25-c30840fbe4a3,CE-259 Tómas Alva Edison-Ponciano Arriaga,259,19.437569,-99.15468,"['KEY', 'CREDITCARD']",27,False,False,False,True
+118,23d76976-a26e-4e36-acd2-605f569008d0,CE-260 Av. Juárez-Balderas,260,19.43531137040153,-99.14778560405466,"['KEY', 'CREDITCARD']",21,False,False,False,True
+119,e1fe4dbd-7c77-4b17-bdc4-5525186a59cb,CE-016 Reforma - Río Tiber,016,19.4267528,-99.16861944,"['KEY', 'CREDITCARD']",31,False,False,False,True
+120,6221a50d-9419-4025-a3fd-75156c46bc89,CE-025 Reforma - Estocolmo,025,19.427338,-99.16672,"['KEY', 'CREDITCARD']",27,False,False,False,True
+121,60312641-514b-4218-9ff6-c0574698ab51,CE-116 Londres-Roma,116,19.428985,-99.15664,"['KEY', 'CREDITCARD']",23,False,False,False,True
+122,ed542623-a103-46b3-8bb9-e0f2dede1551,CE-019 Reforma - Río Rhin,019,19.429453,-99.16283,"['KEY', 'CREDITCARD']",31,False,False,False,True
+123,ff0466e8-713e-4a79-8858-fe849263d2ed,CE-005 Río Pánuco Río Tiber,005,19.429804,-99.169451,"['KEY', 'CREDITCARD']",23,False,False,False,True
+124,1f179fa2-58f7-4c1d-b794-6c6d07107a12,CE-261 Paseo de la Reforma-Río de la Plata,261,19.42491,-99.172455,"['KEY', 'CREDITCARD']",43,False,False,False,True
+125,cc8ff731-6d20-4353-be48-4abe02a69ad9,CE-263 Sadi Carnot - Gómez Farias,263,19.436274,-99.158425,"['KEY', 'CREDITCARD']",29,False,False,False,True
+126,5433ac4c-ad13-4a91-8e6f-b86db29b8593,CE-111 Guillermo Prieto - Joaquín Velázquez de León,111,19.438197,-99.165918,"['KEY', 'CREDITCARD']",27,False,False,False,True
+127,a62a588b-f2dc-4ceb-8985-2a26251f7116,CE-265 Mina - Jesús García,265,19.440839,-99.152265,"['KEY', 'CREDITCARD']",33,False,False,False,True
+128,306445b6-1505-4a5c-8780-73efd1add08c,CE-264-275 Héroes Ferrocarrileros - Jesús Garcia,264-275,19.440985,-99.152935,"['KEY', 'CREDITCARD']",71,False,False,False,True
+129,42e23120-8ea4-45b5-a7fa-eda131ebadeb,CE-255 José Rosas Moreno-Guillermo Prieto,255,19.437118,-99.161862,"['KEY', 'CREDITCARD']",35,False,False,False,True
+130,f7e1cdde-906b-4ba9-b0fd-f185ebcfaed4,CE-268-269 Luis Donaldo Colosio - Av. Jesús García,268-269,19.442467,-99.151658,"['KEY', 'CREDITCARD']",69,False,False,False,True
+131,5c393f5a-ea35-4c1d-8b7c-6829c551360e,CE-007 Río Elba - Río Lerma,007,19.425355,-99.17515,"['KEY', 'CREDITCARD']",23,False,False,False,True
+132,ec6eff8f-ce3d-4554-96c0-e01fddfc1d9e,CE-254 Alfonso Herrera-Miguel Shultz,254,19.439347,-99.160074,"['KEY', 'CREDITCARD']",31,False,False,False,True
+133,881c8a03-dfa5-43b1-a8a0-3b90c327c6af,CE-115 Roma-Dinamarca,115,19.429947,-99.159698,"['KEY', 'CREDITCARD']",27,False,False,False,True
+134,4d8c0674-ff31-486e-a8a0-624f12f9a885,CE-273-274 Luis Donaldo Colosio - Av. Jesús García,273-274,19.442707,-99.152956,"['KEY', 'CREDITCARD']",70,False,False,False,True
+135,d48a4f20-e314-41fe-bcd1-797643475703,CE-035 Liverpool - Génova,035,19.424558,-99.163518,"['KEY', 'CREDITCARD']",41,False,False,False,True
+136,f0577f79-5dbe-4ffc-9ca1-32342a026cab,CE-012 Río Lerma - Villalongín,012,19.432223,-99.161686,"['KEY', 'CREDITCARD']",15,False,False,False,True
+137,c039407d-4ccf-410a-8571-fe059d44465e,CE-006 Río Pánuco - Río Sena,006,19.430963,-99.166986,"['KEY', 'CREDITCARD']",15,False,False,False,True
+138,1c2d98f5-d786-4391-a90e-759624412202,CE-132 Colima-Frontera,132,19.420667,-99.15645,"['KEY', 'CREDITCARD']",23,False,False,False,True
+139,3660da90-c927-4155-abbf-b46cccad4782,CE-144 Frontera-San Luis Potosí,144,19.415192,-99.154837,"['KEY', 'CREDITCARD']",27,False,False,False,True
+140,9c9b6abe-59b4-43e0-9f56-c888086b634f,CE-147 Coahuila-Orizaba,147,19.412182,-99.158443,"['KEY', 'CREDITCARD']",27,False,False,False,True
+141,e23d9a83-4e36-473d-9c7c-c957e308d36c,CE-271-272 Jesús García - Carlos J. Meneses,271-272,19.443684,-99.152465,"['KEY', 'CREDITCARD']",74,False,False,False,True
+142,c6445288-e120-4ff7-9dcb-4f6242eab5a1,CE-002 Río Guadalquivir - Río Nazas,002,19.430495377066244,-99.17115971451493,"['KEY', 'CREDITCARD']",23,False,False,False,True
+143,8ced182b-547d-4cbe-a08d-43fe4a3e753b,CE-137 Álvaro Obregón-Mérida,137,19.418774,-99.157081,"['KEY', 'CREDITCARD']",27,False,False,False,True
+144,d9c6fc77-426e-4451-a872-d976b8c4047c,CE-139 Tonalá-Guanajuato,139,19.416128,-99.162097,"['KEY', 'CREDITCARD']",23,False,False,False,True
+145,84a1127b-c851-4f85-ad55-5e3510a8927e,CE-190 Gobernador Ignacio Esteva-Maestro José Vasconcelos,190,19.409577,-99.183818,"['KEY', 'CREDITCARD']",31,False,False,False,True
+146,da115fde-7ce2-4811-b362-5e55b38c3283,CE-185 General Antonio Léon-General Pedro Antonio de los Santos,185,19.412776,-99.182805,"['KEY', 'CREDITCARD']",29,False,False,False,True
+147,d286decb-ee01-4fb9-bff4-17da6a01427d,CE-228 Campos Elíseos-La Fontaine,228,19.427705,-99.19912,"['KEY', 'CREDITCARD']",19,False,False,False,True
+148,0463ed02-99a4-496d-8f75-5fcea83fb8c9,CE-220 Plinio-Presidente Masaryk,220,19.432655,-99.205727,"['KEY', 'CREDITCARD']",27,False,False,False,True
+149,77838d7d-df7d-4809-af2e-2b2d2946d274,CE-204 Temístocles-Homero,204,19.435882,-99.19152,"['KEY', 'CREDITCARD']",27,False,False,False,True
+150,d48a720e-eaf5-44d2-b41e-a7cdffba4941,CE-199 Anatole France-Av. Ejército Nacional,199,19.437934,-99.197241,"['KEY', 'CREDITCARD']",23,False,False,False,True
+151,80929cd8-7287-4a40-9ff5-37d3d1ac6d3c,CE-247 Herschel-Rousseau,247,19.432276,-99.18064,"['KEY', 'CREDITCARD']",27,False,False,False,True
+152,f0fa6f33-b282-4f31-82ae-818ed9abde00,CE-158-159 Huatabampo-Eje 1 Pte. Av. Cuauhtémoc,158-159,19.407517,-99.155373,"['KEY', 'CREDITCARD']",74,False,False,False,True
+153,18308636-9dbd-4068-b1f6-1adba890c694,CE-207 Torquato Tasso-Homero,207,19.434861,-99.183322,"['KEY', 'CREDITCARD']",23,False,False,False,True
+154,36c67c3e-5ab0-4a45-bdb4-dfb17807a949,CE-222 Alejandro Dumas-Presidente Masarik,222,19.431417,-99.195774,"['KEY', 'CREDITCARD']",27,False,False,False,True
+155,6470fba2-3fbd-4929-8532-a35368513a64,CE-216 Alejandro Dumas-Horacio,216,19.433419,-99.195746,"['KEY', 'CREDITCARD']",27,False,False,False,True
+156,ceeb5dc1-4041-41c9-aaee-a40f5650b11f,CE-212 Hegel-Horacio,212,19.433863944714325,-99.18809428821986,"['KEY', 'CREDITCARD']",35,False,False,False,True
+157,be2b5ee1-a479-480d-b6b2-4b0eee48cac2,CE-140 Mérida-Zacatecas,140,19.416596,-99.156879,"['KEY', 'CREDITCARD']",19,False,False,False,True
+158,912ba53b-962f-4be5-bae4-f59a7cb315f4,CE-229 Carlos Dickens-Séneca,229,19.430515,-99.203331,"['KEY', 'CREDITCARD']",23,False,False,False,True
+159,11196223-b36a-49d8-9fda-ab3150fcf74b,CE-231 Isaac Newton-Aristóteles,231,19.429711892530808,-99.19357940565533,"['KEY', 'CREDITCARD']",27,False,False,False,True
+160,4db35bc0-68a5-4fa8-a62f-e65cd5f8641a,CE-460 Juan Vázquez De Mella-Homero,460,19.43716476942747,-99.20793056498951,"['KEY', 'CREDITCARD']",35,False,False,False,True
+161,133bb2de-abcd-411d-92fd-d5b980356135,CE-214 Platón-Horacio,214,19.434353,-99.20322,"['KEY', 'CREDITCARD']",27,False,False,False,True
+162,777b3832-0016-4dbd-a108-8a26484cb9db,CE-218 Hegel-Ibarbourou,218,19.432451,-99.188033,"['KEY', 'CREDITCARD']",23,False,False,False,True
+163,3d48e436-6f6b-464a-98fa-6e8153559f47,CE-243 Lago Filt-Miguel de Cervantes Saavedra,243,19.441123,-99.195857,"['KEY', 'CREDITCARD']",23,False,False,False,True
+164,a10f37a2-d61d-4e19-8a93-9059c02f625e,CE-192-193 Rubén Darío.Reforma,192-193,19.425907,-99.190733,"['KEY', 'CREDITCARD']",49,False,False,False,True
+165,a193b213-2593-4409-9320-9f6a57ca4d53,CE-464 Mateo Alemán-Prolongación Moliere,464,19.442421,-99.199838,"['KEY', 'CREDITCARD']",19,False,False,False,True
+166,7e1a6867-e59c-467c-82f5-fa860a736a79,CE-195 Reforma-Circuito Mahatma Gandhi,195,19.424858,-99.185181,"['KEY', 'CREDITCARD']",31,False,False,False,True
+167,66dd9c37-0d41-4bef-9e7a-48ed6e76da6e,CE-120 Marsella-Nápoles,120,19.425437,-99.159458,"['KEY', 'CREDITCARD']",15,False,False,False,True
+168,b5df774e-7c54-49d0-bd0e-cabbc8c2b8e9,CE-143 Córdoba-San Luis Potosí,143,19.414303,-99.157542,"['KEY', 'CREDITCARD']",23,False,False,False,True
+169,0e742203-9892-4394-8d4e-dea9c6256dc3,CE-150 Campeche-Medellín,150,19.409894,-99.164288,"['KEY', 'CREDITCARD']",31,False,False,False,True
+170,409cd4c5-bfd1-43a8-a5ee-28d9b85b1a3a,CE-161 Quintana Roo-Manzanillo,161,19.405533,-99.164913,"['KEY', 'CREDITCARD']",23,False,False,False,True
+171,78e2dfbf-b3b2-4f56-b4cf-c098011a864b,CE-031 Hamburgo - Insurgentes,031,19.427922277979096,-99.16124593467885,"['KEY', 'CREDITCARD']",37,False,False,False,True
+172,0e3f5e8d-2594-46a2-919b-fb0bdf55ff91,CE-280 Anaxágoras-Obrero Mundial,280,19.4015,-99.156406,"['KEY', 'CREDITCARD']",39,False,False,False,True
+173,99a11305-b58e-4b4a-9d52-46178d17de62,CE-032 Londres - Sevilla,032,19.42268552552878,-99.16998323054486,"['KEY', 'CREDITCARD']",35,False,False,False,True
+174,8d601882-1924-41d7-bab8-cb3a9f8210d3,CE-118 Liverpool-Dinamarca,118,19.427114,-99.158251,"['KEY', 'CREDITCARD']",19,False,False,False,True
+175,f54a7ca4-6bf9-4c84-a7bc-0f3c5aad50a9,CE-134 Álvaro Obregón-Orizaba,134,19.418293491655607,-99.15993556380272,"['KEY', 'CREDITCARD']",31,False,False,False,True
+176,80a87439-4869-4365-a035-72412757352b,CE-033 Londres - Florencia,033,19.424187,-99.166497,"['KEY', 'CREDITCARD']",17,False,False,False,True
+177,8302e10f-5a9f-4207-a325-888e2b065ecd,CE-165 Bajío-Eje 2 Pte. Monterrey,165,19.404268,-99.160503,"['KEY', 'CREDITCARD']",23,False,False,False,True
+178,7e7f4bec-01d0-4a3c-b852-99c9cf456d9f,CE-179 Nuevo León-Quintana Roo,179,19.404435569698265,-99.17138099675866,"['KEY', 'CREDITCARD']",27,False,False,False,True
+179,9967aa17-a627-408a-8241-de58891aa415,CE-293 Mier y Pesado-Eje 4 Sur Xola,293,19.397373,-99.164598,"['KEY', 'CREDITCARD']",23,False,False,False,True
+180,edd10a8a-6a2c-4598-a721-035a0a7c8729,CE-037 Guadalajara - Puebla,037,19.42041712015948,-99.17271204298231,"['KEY', 'CREDITCARD']",35,False,False,False,True
+181,35df08af-eb96-4b78-b97b-b337073191c3,CE-156 Tepic-Ario,156,19.406959,-99.163021,"['KEY', 'CREDITCARD']",19,False,False,False,True
+182,2e40c543-de02-459b-88bb-fcd1799d0be4,CE-285 12 de Octubre-Minería,285,19.399763,-99.177538,"['KEY', 'CREDITCARD']",19,False,False,False,True
+183,8bf6e289-4749-4b81-a1fe-051d07f75e58,CE-131 Colima-Jalapa,131,19.419579,-99.161314,"['KEY', 'CREDITCARD']",19,False,False,False,True
+184,3de3a1dc-569d-44cf-887b-6c7a29150ab3,CE-030 Hamburgo - Amberes,030,19.426099760030304,-99.16493654251099,"['KEY', 'CREDITCARD']",36,False,False,False,True
+185,d4769afb-482b-48c1-a23e-f52d41e952a9,CE-057 Cuernavaca - Juan Escutia,057,19.414968,-99.174766,"['KEY', 'CREDITCARD']",11,False,False,False,True
+186,bd0a7dda-6f6f-4e09-bd7e-c09feaaa62c6,CE-058 Parque España - Juan de la Barrera,058,19.415358,-99.171902,"['KEY', 'CREDITCARD']",27,False,False,False,True
+187,733982f6-1ee9-41c7-a6e0-1460b4d7733c,CE-175 Mutualismo-José Martí,175,19.400599004903363,-99.17245991533491,"['KEY', 'CREDITCARD']",23,False,False,False,True
+188,2c6c91cf-8c3d-4591-8ad7-f7fdc7f7e5a4,CE-148 Coahuila-Av. Cuauhtémoc,148,19.412829,-99.155116,"['KEY', 'CREDITCARD']",21,False,False,False,True
+189,9cea9a1f-8f20-4eb0-909f-cf4332c27001,CE-177 Benjamín Hill - Carlos Zetina,177,19.408841,-99.181692,"['KEY', 'CREDITCARD']",19,False,False,False,True
+190,3c452fe8-f41f-40d3-9ca2-076d4cf888cd,CE-166 Progreso-Cda. Antonio Maceo,166,19.406069,-99.183549,"['KEY', 'CREDITCARD']",23,False,False,False,True
+191,42c277d6-ac0f-471e-b730-44ed26f318da,CE-241 Ejército Nacional-Juan Vázquez de la Mella,241,19.43869310388943,-99.20757338410112,"['KEY', 'CREDITCARD']",19,False,False,False,True
+192,3275dac0-7dde-4325-a3ad-726ca9ae95a0,CE-173 Minería-José Martí,173,19.401682,-99.176398,"['KEY', 'CREDITCARD']",23,False,False,False,True
+193,2a318111-5ae7-4bd3-a1a6-0afaffa52bb9,CE-126 Jalapa-Puebla,126,19.422288,-99.162138,"['KEY', 'CREDITCARD']",34,False,False,False,True
+194,70300522-9689-45b8-8ce3-33180b5d9907,CE-127 Puebla-Merida,127,19.423318,-99.15833,"['KEY', 'CREDITCARD']",27,False,False,False,True
+195,56e34212-7703-45f6-8a08-ba24644f38ed,CE-180 Quintana Roo-Villahermosa,180,19.404554,-99.169953,"['KEY', 'CREDITCARD']",27,False,False,False,True
+196,670c0069-5cf1-4860-9977-d1dd0c01dbb5,CE-467 Lago Mayor-Lago Alberto,467,19.440399,-99.186784,"['KEY', 'CREDITCARD']",27,False,False,False,True
+197,a322aa10-01ec-480f-bc05-232eff984aca,CE-167 General Salvador Alvarado-Progreso,167,19.404608864422567,-99.1794095188925,"['KEY', 'CREDITCARD']",23,False,False,False,True
+198,72f15f30-a6ff-421c-8425-6f2c24b7546e,CE-196 Lago Tanganica- Av. Ejército Nacional,196,19.438349,-99.192904,"['KEY', 'CREDITCARD']",27,False,False,False,True
+199,6f36d8e7-b28f-4430-992a-9d1815fb5652,CE-152 Tlacotalpan-Campeche,152,19.409098,-99.167181,"['KEY', 'CREDITCARD']",35,False,False,False,True
+200,3b071704-a31f-4242-b9fa-37111cb845d8,CE-200 Emerson-Av. Ejército Nacional,200,19.437596,-99.188785,"['KEY', 'CREDITCARD']",27,False,False,False,True
+201,f1a112f3-0429-4708-a6b4-deae29c419af,CE-461 Presa Don Martín-Boulevard Miguel De Cervantes Saavedra,461,19.440106,-99.210031,"['KEY', 'CREDITCARD']",31,False,False,False,True
+202,a3bbb7c5-b4b1-4b4a-bd91-9d57342ab5d7,CE-454 Montes Urales-Monte Pelvoux,454,19.425905,-99.204236,"['KEY', 'CREDITCARD']",15,False,False,False,True
+203,7a35f838-c74a-420f-8ad8-08bb5f079057,CE-466 Lago Onega-Lago Ladoga,466,19.44269,-99.19083,"['KEY', 'CREDITCARD']",27,False,False,False,True
+204,bcefffd6-2e36-4eac-b9ac-9b93ca3ade98,CE-213 Solón-Cicerón,213,19.434366028509015,-99.206306487431,"['KEY', 'CREDITCARD']",27,False,False,False,True
+205,f1824de8-fc68-4521-89ab-b32549d82f03,CE-157 Tepic-Tlacotalpan,157,19.406236,-99.166616,"['KEY', 'CREDITCARD']",30,False,False,False,True
+206,f1aa8864-8f10-456d-a670-eac99fb9dcf8,CE-456 Alpes-Montes Escandinavos,456,19.427517,-99.208412,"['KEY', 'CREDITCARD']",27,False,False,False,True
+207,35476e7f-02a5-49c4-89d9-34edee8fdccf,CE-459 Volcán-Montes Urales,459,19.429323620268587,-99.2071587592636,"['KEY', 'CREDITCARD']",31,False,False,False,True
+208,81e4064e-23fe-41e9-a0d2-77138d975a06,CE-457 Av. Prado Norte-Explanada,457,19.42703,-99.212845,"['KEY', 'CREDITCARD']",17,False,False,False,True
+209,0b7e9105-db90-4299-9749-1325ec8d792f,CE-283 Av. Coyoacán-Rafael Dondé,283,19.397923,-99.167248,"['KEY', 'CREDITCARD']",19,False,False,False,True
+210,60300e6b-de2e-4dd4-a78b-6140ade32ae6,CE-294 Nicolás San Juan-Eje 4 Sur Xola,294,19.39644167553825,-99.16090227668974,"['KEY', 'CREDITCARD']",21,False,False,False,True
+211,0837f082-cf89-4e6b-886e-472f1aa7ad56,CE-278 Mier Y Pesado-Obrero Mundial,278,19.40071,-99.163831,"['KEY', 'CREDITCARD']",19,False,False,False,True
+212,25cb18bd-cb86-4e8b-bebf-327504da8827,CE-282 La Morena-Eje 2 Poniente Gabriel Mancera,282,19.398719270170474,-99.16128046816084,"['KEY', 'CREDITCARD']",19,False,False,False,True
+213,25875bdc-ed4e-46d6-8ea0-5312a6acb0b7,CE-320 Enrique Rébsamen-Luz Saviñón,320,19.391323,-99.15936,"['KEY', 'CREDITCARD']",19,False,False,False,True
+214,59c0ad8a-96c5-4cc8-8805-67185b93dde3,CE-044 Durango - Veracruz,044,19.418141,-99.174709,"['KEY', 'CREDITCARD']",27,False,False,False,True
+215,1d89caaa-34ad-423c-baef-9238e98adcd1,CE-114 Lucerna-Abraham González,114,19.428989,-99.153618,"['KEY', 'CREDITCARD']",23,False,False,False,True
+216,85ac1483-f82c-480d-96c6-79d70aabed25,CE-322 Heriberto Frías-Concepción Beistegui,322,19.388456876549792,-99.16064277296753,"['KEY', 'CREDITCARD']",27,False,False,False,True
+217,269a21a7-ed01-48e9-8478-d8ec3ac0dbe8,CE-318 Luz Saviñón-Amores,318,19.392195,-99.163987,"['KEY', 'CREDITCARD']",23,False,False,False,True
+218,fc663fa8-2eac-44cf-b47b-9957d1ac7630,CE-009 Río Guadalquivir - Río Lerma,009,19.428184,-99.170013,"['KEY', 'CREDITCARD']",19,False,False,False,True
+219,10ab9ff7-ad23-4b67-8582-05099073027a,CE-234 Tres Picos-Arquímides,234,19.42786220267939,-99.1914046928423,"['KEY', 'CREDITCARD']",27,False,False,False,True
+220,3c179e0f-4408-4e0c-9c28-96b72ae18434,CE-339 Enrique Rébsamen-Avenida Eugenia,339,19.386212,-99.160583,"['KEY', 'CREDITCARD']",23,False,False,False,True
+221,37b1fb2b-0085-4fd4-be73-194059e3b139,CE-188 Gobernador Melchor Múzquiz-Gobernador Ignacio Esteva,188,19.411711,-99.190139,"['KEY', 'CREDITCARD']",19,False,False,False,True
+222,7b11371a-d663-4e80-a309-a7f724841d94,CE-298 Romero de Terreros-Gabriel Mancera,298,19.394092,-99.162139,"['KEY', 'CREDITCARD']",19,False,False,False,True
+223,d9baab85-cb4c-4e82-8ae7-0fe7caeee6db,CE-189 Gobernador Rafael Rebollar-Gobernador José Ceballos,189,19.410046050731914,-99.18795973067971,"['KEY', 'CREDITCARD']",19,False,False,False,True
+224,b7fa58f7-e27f-463a-8c56-132e8fb5b151,CE-249 Shakespeare-Darwin,249,19.42988388240091,-99.1775936633894,"['KEY', 'CREDITCARD']",15,False,False,False,True
+225,074797ef-d08c-4996-bd69-47a6e3838d33,CE-043 Revillagigedo - Juárez,043,19.4351365,-99.1460756,"['KEY', 'CREDITCARD']",31,False,False,False,True
+226,20deee9d-56a1-417d-b2d2-57b75641a5bf,CE-469 Bahía de la Concepción-Bahía de Todos Los Santos,469,19.434183,-99.173089,"['KEY', 'CREDITCARD']",27,False,False,False,True
+227,7bfc09be-39d8-4bae-ae8d-fbbbe8377c44,CE-472 Bahía de Santa Bárbara-Bahía de Ballenas,472,19.437667,-99.17711,"['KEY', 'CREDITCARD']",23,False,False,False,True
+228,24e36422-4f14-4392-9674-4c07d34dfd5e,CE-048 Independencia - Azueta,048,19.433705,-99.146665,"['KEY', 'CREDITCARD']",11,False,False,False,True
+229,4181d396-39f8-4ccc-835a-31deeb19015b,CE-181 Benjamín Franklin - Ometusco,181,19.404825166337652,-99.17472235863897,"['KEY', 'CREDITCARD']",27,False,False,False,True
+230,4820ed30-2db1-4280-ae46-f8b03dbb2e5b,CE-246 Leibnitz-Thiers,246,19.434147,-99.179835,"['KEY', 'CREDITCARD']",15,False,False,False,True
+231,62bc9c0d-6177-47b0-9a43-a8e3990c47b8,CE-479 Lago Muritz-Av.Marina Nacional,479,19.444433,-99.179664,"['KEY', 'CREDITCARD']",25,False,False,False,True
+232,176bc26a-c15d-4a25-a599-51025bb57a2d,CE-281 Pitágoras-La Morena,281,19.398532,-99.157308,"['KEY', 'CREDITCARD']",31,False,False,False,True
+233,7c5e0e44-d2ca-4761-9d4a-dafc2f8be165,CE-480 Lago Iseo-Av. Marina Nacional,480,19.446073,-99.181654,"['KEY', 'CREDITCARD']",19,False,False,False,True
+234,a8ee6220-5672-4aa5-8ecb-637180e0e4c8,CE-041 Reforma - Av. de la República,041,19.43542,-99.150317,"['KEY', 'CREDITCARD']",33,False,False,False,True
+235,8f6e0da6-0161-444d-bbea-e084b213befb,CE-226 Wallon-Presidente Masaryk,226,19.431044265870334,-99.18220639234278,"['KEY', 'CREDITCARD']",27,False,False,False,True
+236,7bb2f451-2605-4d64-82a9-46cc278538cf,CE-468 Lago Xochimilco-Av. Ejército Nacional,468,19.437250121513653,-99.1795731336424,"['KEY', 'CREDITCARD']",33,False,False,False,True
+237,0dbb66af-908d-458c-a266-dfa970277f32,CE-256 Gómez Farías-Sadi Carnot,256,19.437128,-99.158363,"['KEY', 'CREDITCARD']",23,False,False,False,True
+238,171a20e1-44c8-4e75-841d-6f9a6d9d0e59,CE-119 Turín-Abraham González,119,19.4268522887659,-99.1556279361248,"['KEY', 'CREDITCARD']",25,False,False,False,True
+239,16c32159-9a2c-4b33-a8fe-bee8522222df,CE-475 Lago Muritz-Lago Alberto,475,19.439249,-99.181065,"['KEY', 'CREDITCARD']",23,False,False,False,True
+240,1392d633-6994-4b12-93ce-147511472a39,CE-010 Reforma - Ramírez,010,19.433431,-99.155142,"['KEY', 'CREDITCARD']",27,False,False,False,True
+241,a07c3856-b0e0-4e50-8e43-7edce27f2a4b,CE-450 Ramos Arizpe- Av México Tenochtitlan,450,19.43832573320297,-99.15223784747468,"['KEY', 'CREDITCARD']",31,False,False,False,True
+242,594231e6-9945-492d-8c6a-932368c62efa,CE-555 Ribera de San Cosme - Insurgentes Centro,555,19.44021597,-99.1561678,"['KEY', 'CREDITCARD']",35,False,False,False,True
+243,07e1481c-bfd1-4fe1-b1ea-bde27b22d599,CE-270 De la República-Ponciano Arriaga,270,19.436764,-99.153865,"['KEY', 'CREDITCARD']",33,False,False,False,True
+244,4febbe25-bf6f-4417-a439-ce8b2c36067b,CE-248 Shakespeare-Lafayette,248,19.43175,-99.177399,"['KEY', 'CREDITCARD']",23,False,False,False,True
+245,3c68073a-8f40-437f-aace-4d81b9d306ee,CE-476 Lago Como-Laguna de Mayrán,476,19.442127,-99.184433,"['KEY', 'CREDITCARD']",35,False,False,False,True
+246,aac6da4a-670b-4db2-a022-c7140bdd79e5,CE-174 Joaquín Garcia Icazbalceta-Ignacio Manuel Altamirano,174,19.441133258345886,-99.16170336308824,"['KEY', 'CREDITCARD']",31,False,False,False,True
+247,c72052bc-3558-4de1-965a-de87aba52eba,CE-237-238 Andrés Bello-George Eliot,237-238,19.426744,-99.193986,"['KEY', 'CREDITCARD']",63,False,False,False,True
+249,fb31f815-4867-45c2-a6ce-79bfe43b74ce,CE-124 Claudio Bernard-Dr. Liceaga,124,19.422392,-99.150358,"['KEY', 'CREDITCARD']",35,False,False,False,True
+250,7d1daa43-570e-4298-a336-bb6ca240f3d9,CE-082 Independencia - Marroquí,082,19.433344,-99.14404,"['KEY', 'CREDITCARD']",11,False,False,False,True
+251,5307ca7a-dd54-4b02-abb0-9aebc7025717,CE-262 República de Cuba-República de Brasil,262,19.436931,-99.133952,"['KEY', 'CREDITCARD']",31,False,False,False,True
+252,5c1b06af-35e2-46e4-9c85-b62eec6f486d,CE-235-236 Campos Elíseos-Moliere,235-236,19.429332,-99.202181,"['KEY', 'CREDITCARD']",55,False,False,False,True
+253,c09092c9-37f5-45ad-8240-5196088b2b9e,CE-104 San Jerónimo-Isabel la Católica,104,19.427059,-99.137116,"['KEY', 'CREDITCARD']",11,False,False,False,True
+254,d5a412b7-c962-4f80-8d02-c832ec3a5478,CE-136 Álvaro Obregón-Tonalá,136,19.417715,-99.162729,"['KEY', 'CREDITCARD']",23,False,False,False,True
+255,7615f629-01c3-4809-a0ee-470f6c08196b,CE-183 Gabino Barreda-Guillermo Prieto,183,19.437665,-99.164018,"['KEY', 'CREDITCARD']",35,False,False,False,True
+256,e6fcae25-1da2-4314-91c4-26e4e380c04a,CE-095 20 de Noviembre-Venustiano Carranza,095,19.430682555945197,-99.1337009892004,"['KEY', 'CREDITCARD']",19,False,False,False,True
+257,54e90403-a466-4cde-a860-021d38097b18,CE-036 Puebla - Veracruz,036,19.41966,-99.17588,"['KEY', 'CREDITCARD']",31,False,False,False,True
+258,19e7a56c-bda1-42a3-97f4-f2f006f90e97,CE-063 Nuevo León - Laredo,063,19.413091238892452,-99.1716201604504,"['KEY', 'CREDITCARD']",35,False,False,False,True
+259,2c063656-4ef6-4989-ac64-5b53dfd6a1df,CE-087 Gante - Venustiano Carranza,087,19.432024,-99.139705,"['KEY', 'CREDITCARD']",25,False,False,False,True
+260,fae0da34-444e-4f46-a8ef-afaf7b42798e,CE-020 Reforma- Río Támesis,020,19.43086152710901,-99.16025899353372,"['KEY', 'CREDITCARD']",23,False,False,False,True
+261,cb190b81-e0bf-448e-a9c5-f11533af7c76,CE-015 Reforma - Río Mississippi,015,19.425597,-99.171409,"['KEY', 'CREDITCARD']",23,False,False,False,True
+262,529a5727-9aab-4db5-ac67-93bd56881a71,CE-075 Alfonso Reyes - Atlixco,075,19.408740687234836,-99.17677424853537,"['KEY', 'CREDITCARD']",33,False,False,False,True
+263,e82d82be-1e20-46c3-bb62-9c600052818b,CE-017 Reforma - Río Tiber,017,19.427553,-99.167396,"['KEY', 'CREDITCARD']",27,False,False,False,True
+264,e2e1d6b1-2af7-41d9-bde1-2d5bca7000b2,CE-080 Nuevo León - Aguascalientes,080,19.407239898913133,-99.17207747708744,"['KEY', 'CREDITCARD']",35,False,False,False,True
+265,f34d819c-1c64-425d-a788-67d7114d3820,CE-023 Reforma - Praga,023,19.42528,-99.171099,"['KEY', 'CREDITCARD']",36,False,False,False,True
+266,d6aefac2-3e57-4eff-8261-8632bcf85262,CE-085 Rosas Moreno - Sullivan,085,19.434059327049166,-99.16243817658597,"['KEY', 'CREDITCARD']",15,False,False,False,True
+267,fe446a92-8e6f-4e85-9fb5-62c63308753d,CE-014 Reforma - Río de Plata,014,19.42454,-99.173247,"['KEY', 'CREDITCARD']",39,False,False,False,True
+268,9754d284-1145-4c1d-8c63-159c0a70b47a,CE-135 Álvaro Obregón-Morelia,135,19.419250969141167,-99.15503863246612,"['KEY', 'CREDITCARD']",38,False,False,False,True
+269,1d98a54e-075f-4e65-8f12-24fd23c8d3f9,CE-089 República de Guatemala - Monte de Piedad,089,19.434962,-99.133729,"['KEY', 'CREDITCARD']",11,False,False,False,True
+270,f96bb576-76d8-41c8-a0ca-b0ae4bc35134,CE-133 Colima-Morelia,133,19.421138,-99.154725,"['KEY', 'CREDITCARD']",35,False,False,False,True
+271,da798f39-7b3c-400c-9c2d-450360eb82b4,CE-141 Zacatecas-Luis Cabrera,141,19.415905,-99.15954,"['KEY', 'CREDITCARD']",31,False,False,False,True
+272,4a0c3604-b54a-4d95-b6fa-e78c48c00fb3,CE-092 San Ildefonso-República de Argentina,092,19.436531,-99.131497,"['KEY', 'CREDITCARD']",23,False,False,False,True
+273,cacadce3-38bd-42db-80d0-3894db9d70a1,CE-470 Bahía de Las Palmas-Bahía de Todos Los Santos,470,19.435039,-99.173879,"['KEY', 'CREDITCARD']",23,False,False,False,True
+275,218c4295-a05b-4916-9c1e-dfec786a807f,CE-239 Rincón del Bosque-Ruben Darío,239,19.430153,-99.181355,"['KEY', 'CREDITCARD']",19,False,False,False,True
+276,1ea37a5f-2b94-4882-bbd2-f8f942a7afd4,CE-656 Ignacio Allende - Paris,656,19.3543111,-99.1624361,"['KEY', 'CREDITCARD']",35,False,False,False,True
+277,cddb917b-e054-4d52-b21c-6717bacc4182,CE-305 Avenida del Parque-Arizona,305,19.394693,-99.175531,"['KEY', 'CREDITCARD']",31,False,False,False,True
+278,77736abb-679e-4be2-aa7d-2de1c7fae261,CE-121 Niza-Chapultepec,121,19.42413685832429,-99.16131634266549,"['KEY', 'CREDITCARD']",15,False,False,False,True
+279,4033d595-d8ca-4c68-8bfd-6520d4fb5ca5,CE-027 Reforma- Havre,027,19.42916,-99.162703,"['KEY', 'CREDITCARD']",43,False,False,False,True
+280,d2cdc2a2-ca10-418f-a13f-1846d34f8fb4,CE-252 Víctor Hugo-Shakespeare,252,19.427575,-99.17702,"['KEY', 'CREDITCARD']",19,False,False,False,True
+281,3c9a5306-62ab-4834-9f8e-e2fc4f6d6df1,CE-251 Goethe-Darwin,251,19.429261,-99.17538,"['KEY', 'CREDITCARD']",15,False,False,False,True
+282,eb3a2763-db31-4380-ae0c-74f95d0044a1,CE-117 Londres-Nápoles,117,19.427166592327957,-99.16029106826954,"['KEY', 'CREDITCARD']",31,False,False,False,True
+283,21176df6-3139-4c4e-afb1-583834128215,CE-250 Darwin-Mariano Escobedo,250,19.428949,-99.179796,"['KEY', 'CREDITCARD']",23,False,False,False,True
+284,b622eab9-3cb4-4795-b965-ddb6fb6ed794,CE-217 Euler-Horacio,217,19.432850919536445,-99.18354526173061,"['KEY', 'CREDITCARD']",31,False,False,False,True
+285,1c8651d1-c782-46d7-8b6a-f93b13162166,CE-224 Hegel-Presidente Masaryk,224,19.431255,-99.188065,"['KEY', 'CREDITCARD']",15,False,False,False,True
+286,c21039a2-f166-499f-bb1b-4672e12d2e4a,CE-215 Edgar Alan Poe-Horacio,215,19.43384,-99.19968,"['KEY', 'CREDITCARD']",23,False,False,False,True
+287,4333dab0-9f57-4e9e-92f1-bd1f8c47d436,CE-202 Calderón de la Barca-Av. Homero,202,19.436064,-99.198898,"['KEY', 'CREDITCARD']",19,False,False,False,True
+288,c25a3045-5d6b-4fa8-a11b-3785ab9a1591,CE-240 Ejército Nacional-F.C. de Cuernavaca,240,19.438634297233477,-99.20629061763975,"['KEY', 'CREDITCARD']",17,False,False,False,True
+289,c04e2192-3fca-4562-b18f-f332edb49647,CE-047 Plaza Madrid-Medellín,047,19.419506460644055,-99.16636526590081,"['KEY', 'CREDITCARD']",29,False,False,False,True
+290,90bbf53e-6cbb-4024-924c-4168f9f43350,CE-258 Circuito Interior-Juan Escutia,258,19.4165298,-99.1790435,"['KEY', 'CREDITCARD']",33,False,False,False,True
+291,ed597ddf-07b6-4dcb-ab00-c95ffca1eb58,CE-011 Río Amazonas - Río Lerma,011,19.431192,-99.163546,"['KEY', 'CREDITCARD']",15,False,False,False,True
+292,5728b66d-9e63-4efe-b705-561ae0a7f2df,CE-001 Río Sena-Río Balsas,001,19.43347819859695,-99.16778985412292,"['KEY', 'CREDITCARD']",35,False,False,False,True
+293,3c7dc21f-5a48-4b64-bb8c-7b28e0cf8181,CE-103 Joaquín Velázquez de León - García Icazbalceta,103,19.441533,-99.165268,"['KEY', 'CREDITCARD']",31,False,False,False,True
+294,adc3a806-e8d7-4f15-a9ff-fa98374daa3b,CE-013 Reforma - Río Mississippi,013,19.424941,-99.17233,"['KEY', 'CREDITCARD']",28,False,False,False,True
+295,1b044e36-c21f-42a6-908b-2ed578a0b7d5,CE-018 Reforma - Río Rhin,018,19.428802,-99.164381,"['KEY', 'CREDITCARD']",39,False,False,False,True
+296,942a1e91-d981-4137-b7ee-6168ae349a1d,CE-038 Cozumel - Puebla,038,19.420829444872908,-99.17142122989388,"['KEY', 'CREDITCARD']",35,False,False,False,True
+297,b814aca6-6eb5-4892-b8ce-81ec9356e571,CE-449 Acapulco-Puebla,449,19.420281,-99.174392,"['KEY', 'CREDITCARD']",27,False,False,False,True
+298,2f8cd96a-34f6-493b-821d-743fc98e856f,CE-028 Toledo- Tokio,028,19.423664,-99.172568,"['KEY', 'CREDITCARD']",35,False,False,False,True
+299,00fbd081-f5c7-4818-9d87-335b654fad39,CE-034 Liverpool - Génova,034,19.42472751913646,-99.16334755721435,"['KEY', 'CREDITCARD']",23,False,False,False,True
+300,3636bd9a-f436-4c34-ac3d-e1fd233fa747,CE-232 Taine - Rubén Darío,232,19.42894,-99.185389,"['KEY', 'CREDITCARD']",31,False,False,False,True
+301,2ab5c164-0e9b-400b-b01a-6920977f7e1a,CE-227 Campos Elíseos-Periférico,227,19.431783492215445,-99.20738060028725,"['KEY', 'CREDITCARD']",23,False,False,False,True
+302,081413e0-e891-4c5b-8c7a-a204d872fc4e,CE-211 Isaac Newton-Horacio,211,19.433607,-99.188528,"['KEY', 'CREDITCARD']",35,False,False,False,True
+303,2a29f15c-f738-4f48-af7f-6059587177a5,CE-478 Laguna de Mayrán-Lago Chalco,478,19.440818,-99.176961,"['KEY', 'CREDITCARD']",27,False,False,False,True
+304,1f77a6fa-bc3a-4db4-b5eb-830f9be084b2,CE-474 Bahía de San Hipólito-Bahía del Espíritu Santo,474,19.438984,-99.177549,"['KEY', 'CREDITCARD']",31,False,False,False,True
+305,6e92c835-6e91-489f-a0cd-f27bacb0d5d2,CE-176 Av. Jesús García-Luis Donaldo Colosio,176,19.442717,-99.152262,"['KEY', 'CREDITCARD']",39,False,False,False,True
+306,810045a6-dae1-4a90-a9d2-a7a5612f758e,CE-244 Lago Victoria-Miguel de Cervantes Saavedra,244,19.440508,-99.193681,"['KEY', 'CREDITCARD']",23,False,False,False,True
+307,c638cdc5-2609-4347-9b19-f6087349a788,CE-219 Esopo-FC de Cuernavaca,219,19.433542,-99.207808,"['KEY', 'CREDITCARD']",39,False,False,False,True
+309,d40abda3-8a2b-43bf-950c-e1ad45085050,CE-465 Lago Ginebra-Lago Wetter,465,19.445039,-99.194078,"['KEY', 'CREDITCARD']",27,False,False,False,True
+311,f87a9282-20d7-4189-a040-72c6e07861ac,CE-257 Manuel Maria Contreras-Villalongin,257,19.433803,-99.166223,"['KEY', 'CREDITCARD']",19,False,False,False,True
+312,9696cdfe-c403-4238-b6f1-ede0bc213d4b,CE-455 Pedregal-Ferrocarril De Cuernavaca,455,19.426308,-99.2033,"['KEY', 'CREDITCARD']",23,False,False,False,True
+313,1a204c99-bfb4-42df-bba4-24a1cd9ddc22,CE-266-267 Jesús García - Carlos J. Meneses,266-267,19.444031,-99.152187,"['KEY', 'CREDITCARD']",75,False,False,False,True
+314,7b6fd06d-5c9a-4db4-b80e-070d499e2564,CE-201 Lope de Vega-Av. Ejército Nacional,201,19.437496732030738,-99.18721206491682,"['KEY', 'CREDITCARD']",19,False,False,False,True
+315,aae01f7c-a3eb-4898-853b-6ee6e42ff117,CE-208 Hesiodo-Lamartine,208,19.434182,-99.189835,"['KEY', 'CREDITCARD']",25,False,False,False,True
+316,0c73daa2-a635-4752-8e4c-f429724b64dc,CE-221 Emilio Castelar-Presidente Masaryk,221,19.431799,-99.201565,"['KEY', 'CREDITCARD']",25,False,False,False,True
+317,388845bb-6eb4-4b73-8ac7-28d7ba849e99,CE-210 Eugenio Sue-Horacio,210,19.434076,-99.194091,"['KEY', 'CREDITCARD']",27,False,False,False,True
+318,da7f3eb2-f606-483c-b269-263c3cdd25d9,CE-021 Reforma - Dublín,021,19.424809702659765,-99.1717654466629,"['KEY', 'CREDITCARD']",25,False,False,False,True
+319,982610ef-6534-4b6c-9197-ca438dee7c42,CE-206 Homero-Moliere,206,19.436142,-99.200996,"['KEY', 'CREDITCARD']",23,False,False,False,True
+320,6db41747-4c46-42ad-814f-62e5f1b99329,CE-086 Sullivan-Insurgentes,086,19.432452,-99.15924,"['KEY', 'CREDITCARD']",17,False,False,False,True
+321,0ab10d7a-9922-4d45-8fb3-1f1e5bbaa1fc,CE-233 Julio Verne-Luis G. Urbina,233,19.429314,-99.196965,"['KEY', 'CREDITCARD']",15,False,False,False,True
+322,4d430831-f8f0-48bd-b2b2-297adbbbd889,CE-451 Campos Elíseos-Goldsmith,451,19.428847,-99.201299,"['KEY', 'CREDITCARD']",33,False,False,False,True
+323,a99436ca-f6e1-44e3-9d01-88c8432707f2,CE-008 Reforma - General Prim,008,19.431256,-99.158153,"['KEY', 'CREDITCARD']",17,False,False,False,True
+324,16595397-e515-47a2-814d-d2008a01c43b,CE-223 Isaac Newton-Presidente Masaryk,223,19.431242,-99.191613,"['KEY', 'CREDITCARD']",35,False,False,False,True
+325,c3d7cb11-dd29-4584-82a4-78acd1335a6c,CE-668 Plateros - Capuchinas,668,19.367522,-99.181727,"['KEY', 'CREDITCARD']",33,False,False,False,True
+326,f2daed00-8d9a-4657-ac38-48e451f2c297,CE-242 Pról. Moliere-Miguel de Cervantes Saavedra,242,19.44002672090815,-99.20071095250022,"['KEY', 'CREDITCARD']",31,False,False,False,True
+327,b31a16a7-5618-41ef-a852-20ca449faac4,CE-050 Cuernavaca - Veracruz,050,19.41682441224743,-99.17378827934954,"['KEY', 'CREDITCARD']",27,False,False,False,True
+328,cb9ee45c-c956-48b3-a75d-1cae22378c35,CE-145 Yucatán-Chiapas,145,19.41286,-99.160661,"['KEY', 'CREDITCARD']",27,False,False,False,True
+329,92c19f8b-0071-4f32-8c88-66f3d219195b,CE-142 San Luis Potosí-Eje 2 Pte. Monterrey,142,19.41325186264067,-99.16412428026888,"['KEY', 'CREDITCARD']",31,False,False,False,True
+330,e31cbb79-6271-4d68-ba01-c395c22525ef,CE-155 Jalapa-Tlaxcala,155,19.408218,-99.159911,"['KEY', 'CREDITCARD']",35,False,False,False,True
+331,95af824d-d5cb-42ef-ad39-55c90cf1c083,CE-225 Petrarca-Presidente Masaryk,225,19.431172,-99.185612,"['KEY', 'CREDITCARD']",21,False,False,False,True
+332,845f7cf7-4213-4780-aa83-16613697715f,CE-553  Jaime Torres Bodet - Ribera de San Cosme,553,19.442,-99.1593333,"['KEY', 'CREDITCARD']",35,False,False,False,True
+333,90bc22ca-28c3-4b2d-9566-8eb467cad6c5,CE-051 Colima - Oaxaca,051,19.418031,-99.168435,"['KEY', 'CREDITCARD']",27,False,False,False,True
+334,ad9c80ae-d96e-41f7-8ee3-8ad3e700f635,CE-170 Observatorio Oriente-Revolución,170,19.404029,-99.184342,"['KEY', 'CREDITCARD']",23,False,False,False,True
+335,b4c5d33d-befe-4483-bb50-e78bea9aace5,CE-452 Leibnitz-Av. Ejercito Nacional,452,19.435867,-99.179856,"['KEY', 'CREDITCARD']",15,False,False,False,True
+336,1d82ac18-2fde-4c4b-9cb9-aa331335a6e5,CE-552 Fresno - Ribera de San Cosme,552,19.4431081,-99.1624537,"['KEY', 'CREDITCARD']",23,False,False,False,True
+337,c8a5787b-ad1d-4c36-a8e3-a059bbc9e1b6,CE-130 Mérida-Durango,130,19.421576,-99.158015,"['KEY', 'CREDITCARD']",23,False,False,False,True
+338,fdfc4894-7559-411d-b68e-ea085b6c76ec,CE-062 Fernando Montes de Oca - Amatlan,062,19.41331637033966,-99.17530506854746,"['KEY', 'CREDITCARD']",19,False,False,False,True
+339,4ec3dfa2-6d67-4c13-b94b-0229e2be5262,CE-061 Avenida México - Sonora,061,19.413832444192096,-99.16939929138606,"['KEY', 'CREDITCARD']",35,False,False,False,True
+340,7466ddc5-9962-4167-9653-a35a0a2c262f,CE-129 Tonalá-Durango,129,19.4206,-99.163312,"['KEY', 'CREDITCARD']",23,False,False,False,True
+341,d93dad10-38db-4bbb-9dca-3429d0a6da33,CE-068 Tamaulipas - Michoacán,068,19.41166825384696,-99.17382381861898,"['KEY', 'CREDITCARD']",25,False,False,False,True
+342,e5f98b08-a611-48a3-bb2b-52f021388035,CE-448 Dr. Andrade-Arcos De Belén,448,19.426611,-99.14447,"['KEY', 'CREDITCARD']",31,False,False,False,True
+343,c0f66e9e-5b79-41bd-9457-c1edf7360ba7,CE-253 Dante-Tolstoi,253,19.42644758104329,-99.17815290396902,"['KEY', 'CREDITCARD']",19,False,False,False,True
+344,9e14918a-933e-429c-8871-2635f8a3e182,CE-186 Gob. Gregorio V. Gelati-Gral. Francisco Molinos del Campo,186,19.412455,-99.188489,"['KEY', 'CREDITCARD']",15,False,False,False,True
+345,fe451f60-cfcc-42b9-871c-4a5f63b9c2a8,CE-554 Heroes Ferrocarrileros - Mariano Azuela,554,19.4417473,-99.155639,"['KEY', 'CREDITCARD']",27,False,False,False,True
+346,304bfb9e-fd84-409f-8235-60831da0d286,CE-151 Campeche-Tonalá,151,19.410529,-99.160873,"['KEY', 'CREDITCARD']",27,False,False,False,True
+347,b256e532-3606-4253-8814-5737c8be8f2b,CE-550 Sor Juana Ines de la Cruz - Fresno,550,19.445947026056686,-99.16137836878987,"['KEY', 'CREDITCARD']",23,False,False,False,True
+348,e694bf39-f78c-4050-aa9e-a61616ffe081,CE-551 Nogal - Ribera de San Cosme,551,19.4435806,-99.1648833,"['KEY', 'CREDITCARD']",23,False,False,False,True
+349,f6b3640b-8611-404f-b567-18caa69439b2,CE-549 Sor Juana Ines de la Cruz - Dr. Atl,549,19.4450444,-99.1571333,"['KEY', 'CREDITCARD']",27,False,False,False,True
+350,9ef768c0-cc0d-4255-be21-0b784ebf2a4f,CE-162 Tehuantepec-Medellín,162,19.404907,-99.162485,"['KEY', 'CREDITCARD']",27,False,False,False,True
+352,4f303652-09df-4da3-b2ff-b22244748d90,CE-024 Reforma- Varsovia,024,19.426614,-99.168078,"['KEY', 'CREDITCARD']",19,False,False,False,True
+353,6e0b33f5-f075-4077-a58d-c7639f621f8c,CE-026 Reforma - Versalles,026,19.432595,-99.154995,"['KEY', 'CREDITCARD']",15,False,False,False,True
+354,19b5eb59-d953-481b-b94f-cfb530ec1069,CE-191 Gobernador Rafael Rebollar-Gobernador Vicente Eguía,191,19.40796,-99.187901,"['KEY', 'CREDITCARD']",19,False,False,False,True
+355,a377b811-bb94-4927-985b-579c92409ea0,CE-045 Durango - Sonora,045,19.418749,-99.171942,"['KEY', 'CREDITCARD']",39,False,False,False,True
+356,793c518f-584b-4fc8-918e-01fd09fdb018,CE-052 Hidalgo - Trujano,052,19.436208,-99.141931,"['KEY', 'CREDITCARD']",19,False,False,False,True
+357,c2367eef-9e99-4cb8-b03a-70e0d3f5697c,CE-286 13 de Septiembre-Avenida Patriotismo,286,19.399201,-99.179943,"['KEY', 'CREDITCARD']",19,False,False,False,True
+358,bcf73a97-ee17-4cdc-966e-f94b71056f97,CE-160 Alfonso Herrera-Gabino Barreda,160,19.440252,-99.163455,"['KEY', 'CREDITCARD']",23,False,False,False,True
+359,830934e5-ddd9-4fba-afc0-381bd268657d,CE-194 Circuito Mahatma Gandhi-Reforma,194,19.424282,-99.180334,"['KEY', 'CREDITCARD']",35,False,False,False,True
+360,86a57766-f2e0-40a8-b802-833ce0ac25c0,CE-659  Madrid - Avenida Mexico,659,19.3564861,-99.1694556,"['KEY', 'CREDITCARD']",23,False,False,False,True
+361,3746d6f7-8695-4707-bc54-824ec0ea0d39,CE-096 López-Ayuntamiento,096,19.430625,-99.14248,"['KEY', 'CREDITCARD']",35,False,False,False,True
+362,04f5f8ae-2c8d-4094-97eb-b5eec3cf7692,CE-667 Hermes - Mosqueta,667,19.363955445342725,-99.1807891801136,"['KEY', 'CREDITCARD']",23,False,False,False,True
+363,36c8c94c-7997-4ca3-9433-a2211de7c408,CE-084 Chilpancingo - Tlaxcala,084,19.406872,-99.169572,"['KEY', 'CREDITCARD']",19,False,False,False,True
+364,0c01f47e-1b39-473a-8d34-1fdb171203d8,CE-660 Josefa Ortiz de Dominguez - Circuito Interior,660,19.3580028,-99.1701056,"['KEY', 'CREDITCARD']",27,False,False,False,True
+365,aa0ab91a-be0a-4034-8f1f-264f1fbd33e2,CE-168 Comercio-Progreso,168,19.403997,-99.1776,"['KEY', 'CREDITCARD']",23,False,False,False,True
+366,764bb37c-6063-41d0-b2e0-d426a032daf6,CE-670 Felix Parra - Flamencos,670,19.3676,-99.1849917,"['KEY', 'CREDITCARD']",23,False,False,False,True
+367,cb950db6-b554-4057-8881-52f2690d87b5,CE-154 Tuxpan-Tlaxcala,154,19.406683,-99.167962,"['KEY', 'CREDITCARD']",35,False,False,False,True
+368,8cf37f8f-8ffb-423b-84f2-0044b847b802,CE-658 Vicente Guerrero - Berlín,658,19.355339,-99.165613,"['KEY', 'CREDITCARD']",19,False,False,False,True
+369,6572c5dc-47ab-4529-aec1-c98ae7e29820,CE-657 Madrid - Centenario,657,19.3574361,-99.1637944,"['KEY', 'CREDITCARD']",19,False,False,False,True
+370,58b74ad9-4021-47f6-9b53-fe7c721f3e00,CE-184 General Gómez Pedraza-Gobernador Tiburcio Montiel,184,19.414793,-99.185083,"['KEY', 'CREDITCARD']",35,False,False,False,True
+371,d8e47419-0614-44dd-b4d8-b84e511cf53e,CE-153 Manzanillo-Tlaxcala,153,19.407468,-99.165141,"['KEY', 'CREDITCARD']",23,False,False,False,True
+372,2c62aa63-4f25-4051-96f3-2f6e8e4f8f4e,CE-077 Choapan - Tamaulipas,077,19.406745,-99.178272,"['KEY', 'CREDITCARD']",15,False,False,False,True
+373,56b62c23-8dc3-4678-9bff-3818afe96ed4,CE-073 Campeche - Tamaulipas,073,19.410073,-99.175542,"['KEY', 'CREDITCARD']",35,False,False,False,True
+374,95aafea1-c3ef-47c3-aa85-dceaeab4a72d,CE-078 Benjamín Hill - Tamaulipas,078,19.407512,-99.177361,"['KEY', 'CREDITCARD']",35,False,False,False,True
+375,4f5e71a0-007c-4a0d-b0f0-d536c64f28fa,CE-163 Toluca-Bajío,163,19.405246,-99.15643,"['KEY', 'CREDITCARD']",35,False,False,False,True
+376,6feacb06-b919-4d3d-86ce-e8c3764ebcfe,CE-054 Parque España - Sonora,054,19.416163,-99.170795,"['KEY', 'CREDITCARD']",35,False,False,False,True
+377,88963a49-1bbc-49d2-a92e-2cefda73bd78,CE-169 Prosperidad-Progreso,169,19.403019,-99.174934,"['KEY', 'CREDITCARD']",23,False,False,False,True
+378,1dee018d-f26b-4a4a-aaeb-4b8043df958a,CE-430 Tripoli-Av. Popocatépetl (Eje 8),430,19.36205,-99.154976,"['KEY', 'CREDITCARD']",23,False,False,False,True
+379,226cd0a9-3d76-4d99-9121-ed6ce5141821,CE-171 Comercio-Jose Martí,171,19.40253247789727,-99.1782025248358,"['KEY', 'CREDITCARD']",27,False,False,False,True
+380,092df6a4-9860-482d-98d3-1114eb25541a,CE-309 Pensilvania-Arizona,309,19.393059,-99.179483,"['KEY', 'CREDITCARD']",31,False,False,False,True
+381,b48a0272-0f6d-4071-bb9a-29b30c4898c1,CE-182 Progreso-Astrónomos,182,19.402028398340054,-99.17129248386118,"['KEY', 'CREDITCARD']",31,False,False,False,True
+382,51d4dfe4-5046-452e-b0d5-65f2197c7e0c,CE-331 Avenida 2-Calle 17,331,19.388748,-99.183924,"['KEY', 'CREDITCARD']",27,False,False,False,True
+383,e6b39d7f-f038-4722-9fa9-f83623b7cb17,CE-279 La Morena-Providencia,279,19.399908,-99.166553,"['KEY', 'CREDITCARD']",31,False,False,False,True
+384,275d2933-60d9-4e16-9714-3b607f1235a1,CE-187 General Cano-Gobernador Gregorio V. Gelati,187,19.411227,-99.185514,"['KEY', 'CREDITCARD']",23,False,False,False,True
+385,3688fa8d-f229-4a06-b0f1-c20c529f04d4,CE-291 Magdalena-División Del Norte,291,19.397651,-99.169946,"['KEY', 'CREDITCARD']",35,False,False,False,True
+386,2a230093-b156-4e4c-baca-0197133d156a,CE-297 Diagonal San Antonio-Enrique Rébsamen,297,19.394412,-99.158907,"['KEY', 'CREDITCARD']",27,False,False,False,True
+387,5929f6fd-f6a4-4bd4-819a-03a7f3ef9126,CE-310 Calle 1-Av. Patriotismo,310,19.395316464981526,-99.18172560637684,"['KEY', 'CREDITCARD']",15,False,False,False,True
+388,427f49bd-33a5-44cb-b3d3-5888d1dfd1ba,CE-314 Nueva York-Louisiana,314,19.391647,-99.177331,"['KEY', 'CREDITCARD']",19,False,False,False,True
+389,c6fe3739-49f3-4355-bf97-58c26f947fef,CE-351 Calle 27-Avenida Revolución,351,19.385751,-99.186297,"['KEY', 'CREDITCARD']",15,False,False,False,True
+390,d225be26-b802-478c-a554-26fb81eb6bb3,CE-319 Diagonal San Antonio-Luz Saviñón,319,19.391991,-99.162684,"['KEY', 'CREDITCARD']",27,False,False,False,True
+391,620137b2-19bd-45b0-a48d-f0e919d1467d,CE-329 Calle 13-Avenida 1,329,19.390306,-99.184812,"['KEY', 'CREDITCARD']",31,False,False,False,True
+392,42115ce6-8877-40d1-8993-853c6c032d80,CE-164 Bajío-Tlacotalpan,164,19.403204,-99.16596,"['KEY', 'CREDITCARD']",27,False,False,False,True
+393,fe72f6e8-1411-47cf-9731-85de910a9847,CE-295 Anaxágoras-Eje 4 Sur Xola,295,19.396189323455705,-99.15687739860005,"['KEY', 'CREDITCARD']",35,False,False,False,True
+394,6e349502-64b2-430e-a450-02978bc29eba,CE-336 San Borja-Cda. Dr. J. Bartolache,336,19.385531,-99.169673,"['KEY', 'CREDITCARD']",23,False,False,False,True
+395,754358a9-f978-4f21-bd42-62372b8f120a,CE-296 Diagonal San Antonio-Enrique Rébsamen,296,19.394283,-99.158756,"['KEY', 'CREDITCARD']",23,False,False,False,True
+396,df7943fd-044b-444f-a194-c0de2ff4c3ba,CE-323 Concepción Beistegui-Gabriel Mancera,323,19.388986312246836,-99.1632449628014,"['KEY', 'CREDITCARD']",27,False,False,False,True
+397,aaaf8252-bc8d-404d-822b-4be392cd9355,CE-340 Anaxágoras-Avenida Eugenia,340,19.385625037771153,-99.15819257503244,"['KEY', 'CREDITCARD']",31,False,False,False,True
+398,4b0dde53-17f0-4f69-8e6e-b6307128f1df,CE-669 Los Juarez - Sagredo,669,19.37076863433144,-99.1873613745247,"['KEY', 'CREDITCARD']",23,False,False,False,True
+399,da4948d5-369e-4920-84a2-9d333a781e29,CE-209 Solón-Horacio,209,19.435478,-99.206359,"['KEY', 'CREDITCARD']",19,False,False,False,True
+400,dfbe8ba8-0929-4d9a-a6f8-da629326aa7d,CE-317 Avenida Coyoacán-Torres Adalid,317,19.391456,-99.166157,"['KEY', 'CREDITCARD']",35,False,False,False,True
+401,90c21ab7-72c7-43d5-a957-90d7d3cf9add,CE-299 Romero de Terreros-Mier Y Pesado,299,19.394601,-99.165054,"['KEY', 'CREDITCARD']",27,False,False,False,True
+402,77461e2b-d416-4002-8ac5-6a499232e9e7,CE-276 Anaxágoras-Obrero Mundial,276,19.401986,-99.156366,"['KEY', 'CREDITCARD']",19,False,False,False,True
+403,76baf9ac-04fa-419e-af38-6c712669397a,CE-090 José María Pino Suárez - Corregidora,090,19.43144,-99.132513,"['KEY', 'CREDITCARD']",27,False,False,False,True
+404,88279ba6-789b-4660-9356-ef3fbd85919a,CE-304 Montecito-Dakota,304,19.395043,-99.173821,"['KEY', 'CREDITCARD']",35,False,False,False,True
+405,56847c99-71ca-44cc-8884-b4be47af3098,CE-352 Tintoreto-Giorgione,352,19.384146,-99.185491,"['KEY', 'CREDITCARD']",31,False,False,False,True
+406,2a5fa709-bec7-4a36-b721-43758d8731f1,CE-366 Porfirio Díaz-Augusto Rodin,366,19.378423,-99.181891,"['KEY', 'CREDITCARD']",19,False,False,False,True
+407,07e4fca7-239e-4ecf-ae82-ead6d0078456,CE-395 San Lorenzo-Martín Mendalde,395,19.373725,-99.169807,"['KEY', 'CREDITCARD']",31,False,False,False,True
+408,9e8804c9-12e2-4d98-87cd-343022ea503e,CE-316 San Francisco-Concepción Beistegui,316,19.391056,-99.1712,"['KEY', 'CREDITCARD']",27,False,False,False,True
+409,27b0f69e-b67b-4f70-902f-afc249f3a4c0,CE-292 Adolfo Prieto-Eje 4 Sur Xola,292,19.396917,-99.166264,"['KEY', 'CREDITCARD']",31,False,False,False,True
+410,c4991491-cd32-4d4e-880d-753121bfad24,CE-380 Moras-San Lorenzo,380,19.374756,-99.173539,"['KEY', 'CREDITCARD']",23,False,False,False,True
+411,6bd14a1a-42bb-4b9e-b897-4dcb4b416c44,CE-338 Nicolás San Juan-San Borja,338,19.384242,-99.16326,"['KEY', 'CREDITCARD']",27,False,False,False,True
+412,b1c24253-5486-48a9-8bc5-9da77c947d74,CE-420 María Luz Bringas-Oso,420,19.36967233269665,-99.17958118026945,"['KEY', 'CREDITCARD']",23,False,False,False,True
+413,a1cface0-4eb8-427d-98d9-8d6bb7ab9803,CE-373 Pilares-Gabriel Mancera,373,19.377932,-99.166594,"['KEY', 'CREDITCARD']",19,False,False,False,True
+414,31333604-0c9a-46f8-a8c6-4b7007e8b9d7,CE-416 Recreo-Parroquia,416,19.371279,-99.177623,"['KEY', 'CREDITCARD']",27,False,False,False,True
+415,38a73a9c-7323-4309-9edc-7957f4340b23,CE-386 Poussin-Donatello,386,19.374912,-99.185807,"['KEY', 'CREDITCARD']",39,False,False,False,True
+416,ee1f797c-71f3-4025-9cc3-a290eefbbb00,CE-347 Pensilvania-Maximino Avila Camacho,347,19.384474,-99.176084,"['KEY', 'CREDITCARD']",19,False,False,False,True
+417,53712f04-0bda-4354-b34e-2ef33c67ef92,CE-342 Pitágoras-Av. División del Norte,342,19.38237,-99.1598779,"['KEY', 'CREDITCARD']",31,False,False,False,True
+418,8ca90cde-147e-4c5a-9d37-c5da94315149,CE-328 Avenida 1-Calle 7,328,19.392721,-99.184727,"['KEY', 'CREDITCARD']",15,False,False,False,True
+419,d304c66f-d5b1-4da9-b5d3-1f4610fdab46,CE-369 Porfirio Díaz-Av. Insurgentes,369,19.379941,-99.177224,"['KEY', 'CREDITCARD']",35,False,False,False,True
+420,4abd59f8-29c0-463a-879c-1b78297413c8,CE-389 Santander-Félix Cuevas,389,19.373438,-99.179531,"['KEY', 'CREDITCARD']",39,False,False,False,True
+421,beb8239a-8171-4ba9-9177-e2b67e1cab97,CE-205 Taine-Homero,205,19.43552573443183,-99.18474711483212,"['KEY', 'CREDITCARD']",19,False,False,False,True
+422,8162e582-0cbe-467f-8a5d-f614c6343cd2,CE-396 Martin Mendalde-Felix Cuevas,396,19.37165,-99.17015,"['KEY', 'CREDITCARD']",19,False,False,False,True
+423,c7487207-3050-4446-b80f-33699ec75a66,CE-436 Rodríguez Saro-Búfalo,436,19.36623,-99.177904,"['KEY', 'CREDITCARD']",30,False,False,False,True
+424,cd3ef967-35dc-41ba-880a-56550099dfe8,CE-334 Nueva York-Av. Insurgentes,334,19.386530826718293,-99.17510658508034,"['KEY', 'CREDITCARD']",27,False,False,False,True
+425,b219b9b6-052b-429b-9508-05ac6f71ba1d,CE-385 Poussin-Empresa,385,19.375650918831095,-99.18558642279095,"['KEY', 'CREDITCARD']",35,False,False,False,True
+426,0b144a7e-825f-4631-98e7-98f4fb57ee9a,CE-422 Búfalo-José María Rico (Eje 8),422,19.368403,-99.177472,"['KEY', 'CREDITCARD']",19,False,False,False,True
+427,06f897b9-35fd-4673-a78d-7f1d60fec342,CE-363 Holbein-Paulo Ucello,363,19.380839,-99.183932,"['KEY', 'CREDITCARD']",23,False,False,False,True
+428,43b87af3-d0c1-49f6-89ff-e855a67613b0,CE-355 California-Sacramento,355,19.38201131984727,-99.17328938847277,"['KEY', 'CREDITCARD']",19,False,False,False,True
+429,91e3354c-124e-4f3f-92de-7bb232e1c05a,CE-346 San Francisco-Santa Margarita,346,19.38496594717172,-99.17411729704327,"['KEY', 'CREDITCARD']",26,False,False,False,True
+430,4208f3f5-788e-4137-b059-97d8998fbca9,CE-290 Yosemite-Colorado,290,19.39638,-99.1727082,"['KEY', 'CREDITCARD']",26,False,False,False,True
+431,f65d64f0-0fe8-4b25-974e-9e2a1f6479ac,CE-371 Tlacoquemécatl-Capulín,371,19.378546,-99.174297,"['KEY', 'CREDITCARD']",23,False,False,False,True
+432,1bc4f0b4-b963-48cc-91ea-cabe72bf520e,CE-401 San Lorenzo-Avenida Cuauhtémoc,401,19.372101,-99.161501,"['KEY', 'CREDITCARD']",31,False,False,False,True
+433,e66dbeb3-ec5b-4151-8f51-0c95d6648755,CE-356 Matías Romero -Adolfo Prieto,356,19.381287,-99.1702,"['KEY', 'CREDITCARD']",15,False,False,False,True
+434,f9ff84fb-a078-4a90-b48b-895449e2d638,CE-433 Jose María Olloqui-Lopéz Cotilla,433,19.363548,-99.170766,"['KEY', 'CREDITCARD']",19,False,False,False,True
+435,194c29a7-617a-42f6-9a31-f146ae50ca79,CE-277 Prolongación Tonalá-Obrero Mundial,277,19.401807,-99.15909,"['KEY', 'CREDITCARD']",31,False,False,False,True
+436,64f45fe2-613f-405c-bca9-5a59996fb915,CE-172 General Francisco Murguía-José Martí,172,19.403507124790526,-99.18165966879315,"['KEY', 'CREDITCARD']",19,False,False,False,True
+437,47fbb08e-cc37-45be-be61-f6236b65b906,CE-404 Miguel Laurent-Avenida División Del Norte,404,19.373833,-99.157433,"['KEY', 'CREDITCARD']",31,False,False,False,True
+438,9ba42881-f63c-4bee-9bde-b891cf78b6bd,CE-203 Tennyson-Av. Homero,203,19.435985,-99.194832,"['KEY', 'CREDITCARD']",23,False,False,False,True
+439,71297bcb-8eab-4c30-9f85-577e79089989,CE-473 Bahía del Espíritu Santo-Bahía de Banderas,473,19.438143,-99.17519,"['KEY', 'CREDITCARD']",35,False,False,False,True
+440,aecdeded-bc01-4d79-9fcc-a79526b31edb,CE-462 Presa Falcón-Presa Danxhó,462,19.442338,-99.205198,"['KEY', 'CREDITCARD']",23,False,False,False,True
+441,6f6db666-088d-4f7d-bf4e-66f8d8824b33,CE-477 Lago Iseo-Laguna de Mayrán,477,19.440905,-99.181743,"['KEY', 'CREDITCARD']",23,False,False,False,True
+442,b45e46b0-314f-451a-90cf-1b0dccf65d94,CE-471 Bahía de Chachalacas-Bahía de Santa Bárbara,471,19.436287,-99.174888,"['KEY', 'CREDITCARD']",19,False,False,False,True
+443,ae6b2344-bba9-4e5a-972e-2f3538bc634b,CE-321 Torres Adalid-Anaxágoras,321,19.389477,-99.157513,"['KEY', 'CREDITCARD']",27,False,False,False,True
+444,9bdf03c6-37dc-437d-8a6d-40d7522dd7aa,CE-444 General Manuel Rincón-Agustín Gutierrez,444,19.359475,-99.159437,"['KEY', 'CREDITCARD']",19,False,False,False,True
+445,5357c1ad-4c31-4111-b20a-b3fbd49795da,CE-441 Puente Xoco-Real de Mayorazgo,441,19.361213660076572,-99.16772089901315,"['KEY', 'CREDITCARD']",31,False,False,False,True
+446,3f2d9318-18ea-42b9-92e8-6dbea0211481,CE-055  5 De Mayo - Bolívar,055,19.434514,-99.138068,"['KEY', 'CREDITCARD']",15,False,False,False,True
+447,365f7107-97b8-4b12-bf16-4566c7892d46,CE-138 Guanajuato-Frontera,138,19.417702,-99.155313,"['KEY', 'CREDITCARD']",27,False,False,False,True
+448,07f84f0c-a316-4c54-9503-5ebba1089508,CE-359 Matías Romero -Pestalozzi,359,19.379331,-99.161163,"['KEY', 'CREDITCARD']",31,False,False,False,True
+449,bfc9a5b7-671e-4f43-8933-df225fa920e7,CE-398 Juan Sánchez Azcona-Félix Cuevas,398,19.37104,-99.165653,"['KEY', 'CREDITCARD']",27,False,False,False,True
+450,ad98a418-a941-47cd-a519-94fd892767c7,CE-178 Tamaulipas-Francisco Murguía,178,19.406833,-99.180457,"['KEY', 'CREDITCARD']",23,False,False,False,True
+451,fe03e5a8-b707-4010-9350-c18beff20faf,CE-198 Sócrates-Ejército Nacional,198,19.438173973703993,-99.20383617292828,"['KEY', 'CREDITCARD']",25,False,False,False,True
+452,e12bbf7a-7467-46b5-a5e5-dce40e058b70,CE-326 Eugenia-Nebraska,326,19.388978,-99.174811,"['KEY', 'CREDITCARD']",35,False,False,False,True
+453,4e497a59-e679-499b-b56e-35b9a3244da1,CE-622 Fernando Montes de Oca - Eje 6 Sur,622,19.378362,-99.144007,"['KEY', 'CREDITCARD']",27,False,False,False,True
+454,ec22e098-2f33-411c-affc-c219340f9a76,CE-402 Uxmal-Municipio Libre,402,19.370934360592926,-99.15874142201119,"['KEY', 'CREDITCARD']",27,False,False,False,True
+455,1b3b796e-3aaf-4ca4-a0c5-f4ae32e52c47,CE-039 Puebla - Medellín,039,19.421762,-99.166931,"['KEY', 'CREDITCARD']",23,False,False,False,True
+456,a95e8a34-5c2b-4802-9904-bcabfaa3cdaa,CE-483 Colegio Salesiano - Marina Nacional,483,19.443092,-99.177612,"['KEY', 'CREDITCARD']",23,False,False,False,True
+457,36921c05-0cca-4053-8ccb-94d2d9debce2,CE-313 Pensilvania-Oklahoma,313,19.391431,-99.178989,"['KEY', 'CREDITCARD']",23,False,False,False,True
+458,87a54bec-b33b-4ab7-8636-ef063d07c7eb,CE-230 Edgar Allan Poe - Carlos Dickens,230,19.430098,-99.200074,"['KEY', 'CREDITCARD']",15,False,False,False,True
+459,9a0366c5-ca74-4817-a085-2c8a873daa70,CE-485 Lago de Pátzcuaro - Marina Nacional,485,19.438506,-99.172696,"['KEY', 'CREDITCARD']",23,False,False,False,True
+460,527d11c6-d653-4003-b4d7-536238630694,CE-392 Patricio Sanz-Félix Cuevas,392,19.373004,-99.174764,"['KEY', 'CREDITCARD']",19,False,False,False,True
+461,b17673c6-200c-49f0-932a-4a1dc15169d0,CE-453 Pedregal-Teapa,453,19.424842,-99.203739,"['KEY', 'CREDITCARD']",31,False,False,False,True
+462,c00b32fd-72cb-459a-bafb-449a4c59192e,CE-357 Matías Romero -Amores,357,19.380617,-99.167066,"['KEY', 'CREDITCARD']",23,False,False,False,True
+463,deba1833-4df9-4c8c-85bb-8a88a5421dc0,CE-546 Salvador Díaz Mirón - Santa María la Ribera,546,19.448764,-99.156817,"['KEY', 'CREDITCARD']",23,False,False,False,True
+464,d82f46a0-866f-4157-ae80-0c4c6120734a,CE-301 Luz Saviñón-Magdalena,301,19.393807,-99.171133,"['KEY', 'CREDITCARD']",25,False,False,False,True
+465,c5df14a2-3a36-4608-969d-a3e01369476f,CE-004 Río Nilo - Río Panuco,004,19.428491,-99.171693,"['KEY', 'CREDITCARD']",19,False,False,False,True
+466,c6a74f01-251b-4d59-a969-4073c9075fc4,CE-496 Maestro Rural - José Parres,496,19.449039,-99.170246,"['KEY', 'CREDITCARD']",35,False,False,False,True
+467,690838b2-2502-4ddf-b264-720e6461f749,CE-146 Coahuila-Manzanillo,146,19.410699360989387,-99.16587710386011,"['KEY', 'CREDITCARD']",23,False,False,False,True
+468,7fb0cc0c-6208-4e09-88d8-b3d204966dd3,CE-149 Mérida-Antonio M. Anza,149,19.41199,-99.155699,"['KEY', 'CREDITCARD']",31,False,False,False,True
+469,22e4abb7-d085-494b-b852-1959c3ec1608,CE-495 Amado Nervo - de los Maestros,495,19.445528,-99.166934,"['KEY', 'CREDITCARD']",39,False,False,False,True
+470,b599bd13-985c-4985-8f70-b16ba0919598,CE-537 Fresno - Clavel,537,19.457543649054422,-99.15946327155325,"['KEY', 'CREDITCARD']",23,False,False,False,True
+471,5397b1fe-ca8a-40be-b6d1-e00427af9b7b,CE-069 Michoacán - Ámsterdam,069,19.410797,-99.168143,"['KEY', 'CREDITCARD']",17,False,False,False,True
+472,b72262e9-d951-44d5-b234-45d9ca1d34fd,CE-245 Lago Onega-Av. Ejército Nacional,245,19.438347,-99.190503,"['KEY', 'CREDITCARD']",21,False,False,False,True
+473,8d9432ad-d486-4a08-8bdb-3a10a01da631,CE-425 Nicolas San Juan-Avenida Universidad,425,19.36704,-99.167387,"['KEY', 'CREDITCARD']",35,False,False,False,True
+474,c20c2ef6-5335-48b8-83c9-1647a4606c15,CE-481 Lago Garda - Mariano Escobedo,481,19.449367,-99.182461,"['KEY', 'CREDITCARD']",19,False,False,False,True
+475,64a41976-59d8-4587-b27b-7e724375db8f,CE-502 Mar Mediterráneo - Callejón de la Zanja,502,19.453432,-99.174636,"['KEY', 'CREDITCARD']",35,False,False,False,True
+476,6945c605-15b8-438d-b093-01a043f3beac,CE-504 Mar Blanco - Calzada México Tacuba,504,19.455343,-99.179056,"['KEY', 'CREDITCARD']",27,False,False,False,True
+477,7d9950c1-447e-4c8b-a953-45b169b29a4f,CE-498 de los Maestros - Plan de Agua Prieta,498,19.453146248510524,-99.16645511990282,"['KEY', 'CREDITCARD']",37,False,False,False,True
+478,992cd43a-e002-4858-b8ef-4584a5928cdc,CE-536 Fresno - Eulalia Guzmán (Eje 2 Norte),536,19.458881,-99.159215,"['KEY', 'CREDITCARD']",23,False,False,False,True
+479,e36b9d26-7777-4774-894b-0db132ecec47,CE-497 Manuel Carpio - Plan de Ayala,497,19.452688,-99.170157,"['KEY', 'CREDITCARD']",51,False,False,False,True
+480,147c9b03-840e-4739-8c1c-38aae214cf24,CE-492 Lago Cuitzeo - Felipe Carrillo Puerto,492,19.449153,-99.173433,"['KEY', 'CREDITCARD']",35,False,False,False,True
+481,b513beaa-1574-4bbf-ab72-1035670f182f,CE-503 Nextitla - Mar Egeo,503,19.455571630398424,-99.17513005440924,"['KEY', 'CREDITCARD']",19,False,False,False,True
+482,beb01cc0-52a6-404c-995c-22725da0a294,CE-506 Mar Mediterráneo - Mar Arábigo,506,19.459553,-99.185111,"['KEY', 'CREDITCARD']",27,False,False,False,True
+483,e7998270-96e5-4681-974e-023f6e724a46,CE-507 Mar Mediterráneo - Azcapotzalco,507,19.460292,-99.188303,"['KEY', 'CREDITCARD']",31,False,False,False,True
+484,74fbe297-30e0-4d7c-8db3-d9aa0005edc3,CE-499 de los Maestros - Calzada de los Gallos,499,19.455986,-99.165966,"['KEY', 'CREDITCARD']",39,False,False,False,True
+485,621bfcce-89fa-4d61-b691-99fdf76ca9aa,CE-458 Montes Urales-Volcán,458,19.428679,-99.206605,"['KEY', 'CREDITCARD']",19,False,False,False,True
+486,5441976d-7c31-4bb5-8010-86d9458303a4,CE-541 Eligio Ancona - Naranjo,541,19.45272,-99.158014,"['KEY', 'CREDITCARD']",27,False,False,False,True
+487,bd73db91-2fa7-49ba-83d5-e13e8d905146,CE-482 Lago Xochimilco - Laguna de San Cristóbal,482,19.444826,-99.178393,"['KEY', 'CREDITCARD']",23,False,False,False,True
+488,4964cc8d-31d8-4acc-b961-2d74a24d739b,CE-545 Sabino - Salvador Díaz Mirón,545,19.449098384943877,-99.15995210414621,"['KEY', 'CREDITCARD']",27,False,False,False,True
+489,1087b9bb-edc5-417e-aa73-901fa57fac5b,CE-486 Izcoatl - Circuito Interior Melchor Ocampo,486,19.437334,-99.169573,"['KEY', 'CREDITCARD']",23,False,False,False,True
+490,db6b04bc-4df8-4c6e-a4e9-3d0e6fbd6c5b,CE-098 Emilio Dondé-Av. Balderas,098,19.430267,-99.14861,"['KEY', 'CREDITCARD']",31,False,False,False,True
+491,d8514f15-6aed-47cf-8a0b-bdf408bc94bf,CE-491 Colegio Salesiano - Lago Catemaco,491,19.449405,-99.176635,"['KEY', 'CREDITCARD']",23,False,False,False,True
+492,2aacd770-19aa-40d3-9b88-990f069d581c,CE-672 José María Velasco - Damas,672,19.36295,-99.183161,"['KEY', 'CREDITCARD']",31,False,False,False,True
+493,3e8df233-5966-4cb2-92ad-d814fc7cddd5,CE-543 Jaime Torres Bodet - Manuel Carpio,543,19.450506,-99.157375,"['KEY', 'CREDITCARD']",27,False,False,False,True
+494,0f7713a8-b1eb-4ddb-81cc-73f1f18267b8,CE-540 Eucalipto - Ricardo Flores Magón,540,19.453965040246473,-99.15246807044241,"['KEY', 'CREDITCARD']",23,False,False,False,True
+495,783775b3-08a3-4905-8f08-a15d70f84a3b,CE-703 Miguel Hidalgo - Calzada General Anaya,703,19.350776,-99.155379,"['KEY', 'CREDITCARD']",23,False,False,False,True
+496,31df96e1-1f67-41f1-9f2a-b49bc66fd5f1,CE-673 Miguel Noreña - José María Ibarrarán,673,19.363153,-99.186963,"['KEY', 'CREDITCARD']",35,False,False,False,True
+497,28060f25-b682-42d0-bc94-f8bf74f65eb7,CE-700 Abasolo - Miguel Hidalgo,700,19.350062,-99.160024,"['KEY', 'CREDITCARD']",35,False,False,False,True
+498,d40773bd-22f2-4bd7-be2a-72f23a787a68,CE-704 Pacífico - Asia,704,19.344976,-99.157824,"['KEY', 'CREDITCARD']",23,False,False,False,True
+499,2122895b-7e9d-4d8d-b223-59dffa87ef3c,CE-709 Inglaterra - Antigua Taxqueña,709,19.344236764049867,-99.15006525817262,"['KEY', 'CREDITCARD']",23,False,False,False,True
+500,bb1358d6-ddac-4592-86e6-0c2925fa2a4a,CE-706 Canadá - Acolotitla,706,19.347503,-99.15244,"['KEY', 'CREDITCARD']",23,False,False,False,True
+501,384b7817-35a1-4a8c-8c7e-7d816afeed96,CE-702 Fernández Leal - Plaza de la Conchita,702,19.347246,-99.15857,"['KEY', 'CREDITCARD']",31,False,False,False,True
+502,f6667648-c8b5-479a-9431-337b1db76d00,CE-708 Irlanda-Canada,708,19.346419552561255,-99.14566911759721,"['KEY', 'CREDITCARD']",27,False,False,False,True
+503,f8ddc6ac-b862-4795-a688-9c7c6cfd0ed0,CE-643 Filipinas - Av. Pirineos,643,19.362323,-99.148805,"['KEY', 'CREDITCARD']",39,False,False,False,True
+504,fcedf4ea-1e49-4ea3-ad9e-0b78709e24d0,CE-597 Diagonal San Antonio - Icacos,597,19.398858,-99.151211,"['KEY', 'CREDITCARD']",27,False,False,False,True
+505,0d930ef9-eff6-42e0-bdf1-c3084e174027,CE-694 Ignacio Aldama - Centenario,694,19.353243,-99.163753,"['KEY', 'CREDITCARD']",23,False,False,False,True
+506,20c662bd-5b6e-483c-8fb4-200db98ec65a,CE-696 México - Malintzin,696,19.351576,-99.164567,"['KEY', 'CREDITCARD']",39,False,False,False,True
+507,e20feb13-c84e-4311-bc52-79fca97eff6d,CE-626 San Borja - Petén,626,19.382115,-99.153988,"['KEY', 'CREDITCARD']",27,False,False,False,True
+508,864c7165-5a85-44e5-a1f4-b93f8bc51076,CE-615 Tajín - Universidad,615,19.38748,-99.153876,"['KEY', 'CREDITCARD']",31,False,False,False,True
+509,17d26c22-ca68-447a-aa0a-7d06008a63cb,CE-630 Cuicuilco - Motozintla,630,19.375677,-99.152953,"['KEY', 'CREDITCARD']",31,False,False,False,True
+510,43c63475-5c48-444b-9c0a-309fb6be322e,CE-701 Cuauhtémoc - Morelos,701,19.352052,-99.157981,"['KEY', 'CREDITCARD']",23,False,False,False,True
+511,09ba49d8-cc64-415a-affc-d09ddc6a28bc,CE-617 Mitla - Eje 5 Sur,617,19.384589,-99.150517,"['KEY', 'CREDITCARD']",31,False,False,False,True
+512,6f6fdf84-cb11-4fd3-be15-2854bf9514a6,CE-692 Presidente Carranza - Francisco Sosa,692,19.349149,-99.169646,"['KEY', 'CREDITCARD']",19,False,False,False,True
+513,9d50b2fb-1db3-480b-a8e9-0e45ba31f717,CE-688 Panzacola - Miguel Ángel de Quevedo,688,19.346975,-99.178791,"['KEY', 'CREDITCARD']",33,False,False,False,True
+514,35b745ec-9439-4429-8d65-25f652cbf76e,CE-661 Madrid - Universidad,661,19.35675,-99.171769,"['KEY', 'CREDITCARD']",27,False,False,False,True
+515,adda1d52-c790-415f-b7b8-af95d828a8ba,CE-618 Bartolomé R. Salido - Edzna,618,19.381824,-99.148086,"['KEY', 'CREDITCARD']",31,False,False,False,True
+516,3993ceb9-f364-426b-90b5-fe0bfb12ee88,CE-602 Correspondencia - Eje Central Lázaro Cárdenas,602,19.392523,-99.146194,"['KEY', 'CREDITCARD']",35,False,False,False,True
+517,b13611fd-be23-41d2-9e0f-1881807996e2,CE-559 Fernando de Alva Ixtlilxochitl - Diagonal 20 de noviembre,559,19.420029,-99.140999,"['KEY', 'CREDITCARD']",27,False,False,False,True
+518,6bebdd12-3bdd-4a9d-9833-eebf88765b58,CE-691 Melchor Ocampo - Dulce Olivia,691,19.347283,-99.170834,"['KEY', 'CREDITCARD']",23,False,False,False,True
+519,af36ca20-7898-4492-90a5-f17e5cc0d64c,CE-689 G. Pérez Valenzuela - Salvador Novo,689,19.351426,-99.175455,"['KEY', 'CREDITCARD']",23,False,False,False,True
+520,d8c1d362-8a64-4ef0-bfd1-b45459ebed91,CE-619 Kiff - Rafael Solana Verduguillo,619,19.381277,-99.145804,"['KEY', 'CREDITCARD']",23,False,False,False,True
+521,a0cb3d38-cec1-4b27-9aaa-c1123c83b505,CE-649 Héroes del 47 - Calzada de Tlalpan,649,19.35072,-99.146786,"['KEY', 'CREDITCARD']",23,False,False,False,True
+522,9ee5273a-6f6f-49a5-bace-eb2a80ef95ca,CE-629 Tajín - Chichen Itzá,629,19.376367,-99.155872,"['KEY', 'CREDITCARD']",19,False,False,False,True
+523,33c9c05b-b6b3-4b33-90c5-8a633d7f8082,CE-562 Claudio Bernard - José María Vertiz,562,19.42037,-99.146818,"['KEY', 'CREDITCARD']",23,False,False,False,True
+524,5e2a1084-6de3-48fb-a15e-8132e5f92bbb,CE-609 Romero - Calzada de Tlalpan,609,19.384623,-99.139817,"['KEY', 'CREDITCARD']",31,False,False,False,True
+525,2bfab787-1bc7-4dcc-8c01-24f1959469fb,CE-623 Fernando Montes de Oca - Antonio Rodríguez,623,19.375518,-99.144118,"['KEY', 'CREDITCARD']",35,False,False,False,True
+526,ba46d4ff-d914-42f3-9198-1c7dbc78b5ad,CE-651 Héroes del 47 - División del Norte,651,19.351578,-99.150941,"['KEY', 'CREDITCARD']",31,False,False,False,True
+527,6edd74bb-cae9-4fa6-852c-35482e3f0922,CE-612 Torres Adalid - Cumbres de Maltrata,612,19.388148,-99.148446,"['KEY', 'CREDITCARD']",31,False,False,False,True
+528,efa15508-197f-4052-a662-2fdcc9c2b278,CE-577 Doctor Márquez - Doctor Jiménez,577,19.411609,-99.15314,"['KEY', 'CREDITCARD']",31,False,False,False,True
+529,91882ff9-25d2-4afc-9db2-df10c0ab8473,CE-624 Luis Spota - Eje Central Lázaro Cárdenas,624,19.377516,-99.148116,"['KEY', 'CREDITCARD']",35,False,False,False,True
+530,deeb577c-1982-4555-80ab-d40ad1be8205,CE-620 Fernando Montes de Oca - Priv. Lago,620,19.381804,-99.142997,"['KEY', 'CREDITCARD']",23,False,False,False,True
+531,af3f6912-1cee-4336-960d-cd93c3b38f6d,CE-592 Cádiz - Eje Central Lázaro Cárdenas,592,19.399664,-99.145136,"['KEY', 'CREDITCARD']",27,False,False,False,True
+532,610044cf-2763-4056-9f70-966f46f2f4da,CE-637 Ajusco - Emperadores,637,19.36576,-99.144413,"['KEY', 'CREDITCARD']",23,False,False,False,True
+533,2a333784-6ccf-412b-8d59-09b576a88b24,CE-604 Andalucía - Carteros,604,19.390945,-99.142972,"['KEY', 'CREDITCARD']",31,False,False,False,True
+534,f0ecf074-2c13-4c59-bcdf-f0a51f4df854,CE-634 Rumania - Víctor Hugo,634,19.370133,-99.145866,"['KEY', 'CREDITCARD']",27,False,False,False,True
+535,2e50ac1f-0b9a-45b6-8900-c67a20aea4d9,CE-568 Doctor Barragán - Doctor Erazo,568,19.418013,-99.144598,"['KEY', 'CREDITCARD']",23,False,False,False,True
+536,a251f284-a157-4a5e-af83-bc28ab08ecc7,CE-639 Bulgaria - Rumania,639,19.364528,-99.146988,"['KEY', 'CREDITCARD']",23,False,False,False,True
+537,d2403656-1e94-4bfa-903e-30794a977db2,CE-573 Fernando Ramírez - Isabel la Católica,573,19.412853,-99.138723,"['KEY', 'CREDITCARD']",27,False,False,False,True
+538,f0ccf0af-7074-43f0-ad37-ba21d41a3f0c,CE-494 Tláloc - Calzada México Tacuba,494,19.444053,-99.167429,"['KEY', 'CREDITCARD']",22,False,False,False,True
+539,e74cb238-a30e-40f8-9c2b-a37b88b062c7,CE-563 Doctor Velasco - Niños Héroes,563,19.419444,-99.149776,"['KEY', 'CREDITCARD']",23,False,False,False,True
+540,b87efab0-234a-4752-92f0-e7243381aa7f,CE-560 Doctor Liceaga - Eje Central,560,19.421599,-99.143408,"['KEY', 'CREDITCARD']",27,False,False,False,True
+541,0908a469-a1c6-4d9a-81bf-dd1f714fb231,CE-611 Miguel Negrete - Niños Héroes de Chapultepec,611,19.387506,-99.146338,"['KEY', 'CREDITCARD']",23,False,False,False,True
+542,f08b5057-00ee-45e6-b801-553e35d95903,CE-567 Doctor Martínez del Río - Doctor José Terrés,567,19.417133,-99.145649,"['KEY', 'CREDITCARD']",23,False,False,False,True
+543,41f06209-41de-4bb0-bc97-07b2e984c1db,CE-589 Cádiz - Calzada de Tlalpan,589,19.39859,-99.137732,"['KEY', 'CREDITCARD']",23,False,False,False,True
+544,baf7ee45-dd1f-4587-8298-93bb96ee8687,CE-564 Doctor Carmona y Valle - Doctor Velasco,564,19.419509,-99.153227,"['KEY', 'CREDITCARD']",23,False,False,False,True
+545,45e38af7-3796-4e29-9910-73ca4a98cd91,CE-633 Canarias - Calzada Santa Cruz,633,19.372175,-99.146356,"['KEY', 'CREDITCARD']",27,False,False,False,True
+546,b786dcc6-d55c-4e4d-bade-07bb312e2455,CE-664 Hortensia - 2da cerrada de Minerva,664,19.355544,-99.178992,"['KEY', 'CREDITCARD']",23,False,False,False,True
+547,8c23b7d5-9a6c-4c2c-be73-45bf704cb938,CE-579 Doctor Márquez - Privada Doctor Duran,579,19.410884,-99.144975,"['KEY', 'CREDITCARD']",27,False,False,False,True
+548,e26b4687-7ac5-4226-955e-44204da285a8,CE-652 Xicoténcatl - División del Norte,652,19.354876,-99.153611,"['KEY', 'CREDITCARD']",23,False,False,False,True
+549,794e2765-f0f2-48c3-a534-78cb1f5928d6,CE-663 Hortensia - Avenida Universidad,663,19.3548028,-99.1754194,"['KEY', 'CREDITCARD']",23,False,False,False,True
+550,73bb934e-4cd5-4d48-8260-2cd32e5c1f2c,CE-603 Castilla - Eje 4 sur Xola,603,19.394422,-99.143291,"['KEY', 'CREDITCARD']",27,False,False,False,True
+551,1cc400e8-a119-4b64-89c7-dd0bc4df05d3,CE-548 Dr. Mariano Azuela - Jose Antonio Alzate,548,19.447028903088047,-99.15431119504319,"['KEY', 'CREDITCARD']",39,False,False,False,True
+552,e9f9b990-95c5-47f3-92ef-9e8318b8b7b9,CE-463 Lago Andrómaco-Lago Zurich,463,19.443228,-99.202492,"['KEY', 'CREDITCARD']",27,False,False,False,True
+553,7f1d2883-b473-41cf-9dd3-2ea4a7db19c8,CE-662 Manzano - Circuito Interior,662,19.362041,-99.175158,"['KEY', 'CREDITCARD']",23,False,False,False,True
+554,7cace8ba-01b3-414a-ab5f-5269ccd9ce02,CE-679 Olivo - Tecoyotitla,679,19.354886,-99.184642,"['KEY', 'CREDITCARD']",31,False,False,False,True
+555,cf42cc79-6657-4260-8f58-0d5a9f806f51,CE-571 Manuel M. Flores - Calzada San Antonio Abad,571,19.416221,-99.134909,"['KEY', 'CREDITCARD']",35,False,False,False,True
+556,bcb2f6e4-94b6-4375-8382-76d2305fe046,CE-578 Doctor Jiménez - Doctor Federico Gómez Santos,578,19.408649,-99.151126,"['KEY', 'CREDITCARD']",27,False,False,False,True
+557,2af0a69e-e367-4af8-9125-ec527959a864,CE-666 Moras - Naranjo,666,19.3614885,-99.1774325,"['KEY', 'CREDITCARD']",23,False,False,False,True
+558,de7c6049-4289-480c-961f-af697416c650,CE-556 Plaza Tlaxcoaque - Diagonal 20 de noviembre,556,19.423056,-99.134941,"['KEY', 'CREDITCARD']",33,False,False,False,True
+559,1d870e93-3666-4087-ae78-e59d9a49be3f,CE-678 Francia - Tecoyotitla,678,19.3588634,-99.1829297,"['KEY', 'CREDITCARD']",27,False,False,False,True
+560,bf0acc50-b72b-43e3-a666-63efd5f913fd,CE-645 Saratoga - Ajusco,645,19.358634,-99.152732,"['KEY', 'CREDITCARD']",27,False,False,False,True
+561,7c3d7a8a-a546-4595-acd0-7738a51810e4,CE-569 Gutiérrez Nájera - Bolívar,569,19.415713,-99.141227,"['KEY', 'CREDITCARD']",19,False,False,False,True
+562,2629e343-2fab-41f3-9c8c-76d6190d99de,CE-686 Vito Alessio Robles - Universidad,686,19.352203,-99.178393,"['KEY', 'CREDITCARD']",27,False,False,False,True
+563,20772962-7303-449e-91ed-ae065164fefa,CE-501 Plan de Guadalupe /Ferrocarril de Cuernavaca - Eligio Ancona,501,19.454257,-99.172593,"['KEY', 'CREDITCARD']",27,False,False,False,True
+564,a397e64d-1b55-4f6b-870a-c89c8c145153,CE-697 Francisco Sosa - Tres Cruces,697,19.349277,-99.164921,"['KEY', 'CREDITCARD']",35,False,False,False,True
+566,a9b1bf5e-dab6-41d6-ad36-b4a19978e1fe,CE-584 Enrique Granados - José Peón Contreras (Eje 3),584,19.40697,-99.14383,"['KEY', 'CREDITCARD']",31,False,False,False,True
+567,590ff198-b25a-4aca-b29b-535270016c07,CE-580 Antonio Solís - Bolívar,580,19.409817,-99.141643,"['KEY', 'CREDITCARD']",19,False,False,False,True
+568,c8a85aa5-e921-42af-8990-ea8c60153f34,CE-575 Fernando Ramírez - Eje Central,575,19.413235,-99.143476,"['KEY', 'CREDITCARD']",31,False,False,False,True
+569,d5c8009b-b0de-4374-b962-0a31064702a5,CE-590 Fernando - Isabel la Católica,590,19.399172,-99.140625,"['KEY', 'CREDITCARD']",31,False,False,False,True
+570,b1edaab4-c3dd-4e90-91ec-e298a7a40dfc,CE-650 Xicoténcatl- Prolongación Xicoténcatl,650,19.355809,-99.149393,"['KEY', 'CREDITCARD']",27,False,False,False,True
+571,06f0d8ea-15d3-4b0e-9761-89685711e455,CE-631 Miguel Laurent - Eje Central,631,19.372907,-99.149207,"['KEY', 'CREDITCARD']",27,False,False,False,True
+572,7083f60c-758b-474e-9349-178c60a2c4be,CE-687 Francisco Sosa - Panzacola,687,19.349307,-99.179074,"['KEY', 'CREDITCARD']",27,False,False,False,True
+573,e62ae1e3-6bba-4850-bef5-aad7f313d065,CE-640 Odesa - Bulgaria,640,19.367465,-99.148786,"['KEY', 'CREDITCARD']",23,False,False,False,True
+574,a791b9fa-c6cd-4259-b47d-35fb38e42b70,CE-628 Tenayuca - Chichen Itzá,628,19.378281,-99.15841,"['KEY', 'CREDITCARD']",23,False,False,False,True
+575,4ab36fab-8674-4f9c-8909-26e2fe826f5b,CE-510 Egipto - Calle Norte 79 A,510,19.462152,-99.178291,"['KEY', 'CREDITCARD']",23,False,False,False,True
+576,8f63c35f-0e7b-4c2b-b95b-5645a103e077,CE-635 Calzada Santa Cruz - Antillas,635,19.370586,-99.142294,"['KEY', 'CREDITCARD']",39,False,False,False,True
+577,cb649a0d-aa76-4d06-b137-4352705e7339,CE-655 Gomez Farias - Viena,655,19.357086311891955,-99.16019652040175,"['KEY', 'CREDITCARD']",19,False,False,False,True
+578,df374bb4-e210-4488-a7d4-948fefb78b30,CE-531 Norte 67 - Poniente 44,531,19.460356,-99.174283,"['KEY', 'CREDITCARD']",35,False,False,False,True
+579,2cdf206f-38ab-45a8-90b5-289326f8aad6,CE-684 Vito Alessio Robles - Tecoyotitla,684,19.351594,-99.184772,"['KEY', 'CREDITCARD']",31,False,False,False,True
+580,f331dd7b-150c-4d9b-b7f5-0cd5690eb05d,CE-613 Luz Saviñón - Doctor José María Vertiz,613,19.390019,-99.15111,"['KEY', 'CREDITCARD']",31,False,False,False,True
+581,17ad570a-30d3-47b4-b2d6-5f9c5b235940,CE-557 5 de Febrero - Fernando de Alva Ixtlilxochitl,557,19.41981,-99.135941,"['KEY', 'CREDITCARD']",27,False,False,False,True
+582,ff6e797f-0ef1-4927-8498-b0c28615a8c0,CE-642 Repúblicas - Monrovia,642,19.364001,-99.150422,"['KEY', 'CREDITCARD']",23,False,False,False,True
+583,9119d914-a559-434f-8e71-f13c76beb84c,CE-512 Clavería - Floresta,512,19.465636,-99.186342,"['KEY', 'CREDITCARD']",11,False,False,False,True
+584,20bc9739-f348-451a-95c7-7ea9d51d5ca6,CE-665 Moras - Mango,665,19.3589028,-99.1779972,"['KEY', 'CREDITCARD']",23,False,False,False,True
+585,464ec58d-de42-43ce-be29-b2ffeae15f64,CE-594 Xochicalco - Obrero Mundial,594,19.402277,-99.153294,"['KEY', 'CREDITCARD']",31,False,False,False,True
+586,c42ff5e2-ddb2-4b5a-9490-99d7359169f3,CE-514 José F. Gutiérrez - Invierno,514,19.470485,-99.188509,"['KEY', 'CREDITCARD']",31,False,False,False,True
+587,7da0f8df-5a66-4633-af61-f546ccbeb0ad,CE-525 Boldo - Tila,525,19.468293,-99.16557,"['KEY', 'CREDITCARD']",11,False,False,False,True
+588,17dfeae6-8efd-4dec-b2fb-3c8c54fa8339,CE-527 Boldo - Alcanfores,527,19.464826,-99.163177,"['KEY', 'CREDITCARD']",23,False,False,False,True
+589,64abf1ec-0264-4ce7-a005-3fce2053ae16,CE-516 Texcoco - Nilo,516,19.46669,-99.180302,"['KEY', 'CREDITCARD']",19,False,False,False,True
+590,9a373dfe-f892-4a76-b3a8-ec44d775ad6b,CE-595 Yacatas - Diagonal de San Antonio,595,19.396983,-99.155114,"['KEY', 'CREDITCARD']",27,False,False,False,True
+591,f895d65c-565e-4047-8d56-3839e98da860,CE-517 Ignacio Allende - Clavería,517,19.465377,-99.179197,"['KEY', 'CREDITCARD']",11,False,False,False,True
+592,ba4197a2-9cee-4320-ab46-bf4e0dc7c21e,CE-519 Poniente 58 - Cuitláhuac,519,19.464891,-99.177242,"['KEY', 'CREDITCARD']",19,False,False,False,True
+593,1b3efb4d-1936-4a63-a6af-0f798e37db0f,CE-521 Yuca - Clavelinas,521,19.466423,-99.173061,"['KEY', 'CREDITCARD']",27,False,False,False,True
+594,13b9e9ee-54f6-4243-909f-57b024b870d1,CE-518 Heliópolis - Norte 79A,518,19.468315,-99.177386,"['KEY', 'CREDITCARD']",27,False,False,False,True
+595,f769f3a8-9229-4d05-bb0c-86f4145c9a67,CE-654 Londres - San Pedro,654,19.355942,-99.157461,"['KEY', 'CREDITCARD']",23,False,False,False,True
+596,38b59176-9114-4384-8595-09fe8da610e1,CE-653 Londres - División del Norte,653,19.356689,-99.153269,"['KEY', 'CREDITCARD']",23,False,False,False,True
+597,3d15d1ec-cdc5-44a0-9b3b-5fcbac7db6f0,CE-707 Irlanda - División del Norte,707,19.348076,-99.14906,"['KEY', 'CREDITCARD']",27,False,False,False,True
+598,1ed75316-0c0f-437f-9b16-f5ea5c4c06e6,CE-542 Dr. Enrique González Martínez - Eligio Ancona,542,19.451838,-99.154584,"['KEY', 'CREDITCARD']",23,False,False,False,True
+599,c70fe393-12c8-4d79-bdea-50328221a1c6,CE-636 Ajusco - Antillas,636,19.367131,-99.142838,"['KEY', 'CREDITCARD']",23,False,False,False,True
+600,89fa0baa-00d9-4727-a057-6639bda7c649,CE-561 Dr. Jiménez - Dr. Lavista,561,19.423673,-99.147957,"['KEY', 'CREDITCARD']",27,False,False,False,True
+601,af37ac93-deb1-4a81-9cbf-5684a09c08da,CE-585 José Toribio Medina - Manuel Navarrete,585,19.405358,-99.14316,"['KEY', 'CREDITCARD']",15,False,False,False,True
+602,ac663dac-3808-4bcd-9f49-10803167078e,CE-600 Cumbres de Acultzingo - Av. Universidad,600,19.392463,-99.150544,"['KEY', 'CREDITCARD']",31,False,False,False,True
+603,6562a7e2-80c3-48d9-9cfc-3f26031c950c,CE-599 La Morena - Zempoala,599,19.398143,-99.148333,"['KEY', 'CREDITCARD']",27,False,False,False,True
+604,0ccf46e2-fc1e-4bb6-98ba-ff43666e9bfd,CE-638 Av Pirineos - C. Antillas,638,19.361743,-99.143867,"['KEY', 'CREDITCARD']",19,False,False,False,True
+605,f516c069-d994-4fe4-add4-9e01ba1109a1,CE-591 Simón Bolívar - La Coruña,591,19.402088,-99.142976,"['KEY', 'CREDITCARD']",27,False,False,False,True
+606,db96716a-4e20-4f95-8108-e84fcda55936,CE-500 Plan de Guadalupe /Ferrocarril de Cuernavaca - Juan Sarabia,500,19.456546,-99.169344,"['KEY', 'CREDITCARD']",23,False,False,False,True
+607,ebf3b030-d319-46b2-9fe9-2121ee633df9,CE-484 Laguna Mayran - Lago Cuitzeo,484,19.44046,-99.174564,"['KEY', 'CREDITCARD']",15,False,False,False,True
+608,1fcf3665-9747-486b-be84-16befa98506f,CE-601 Navarra - Fernando,601,19.395812,-99.145347,"['KEY', 'CREDITCARD']",31,False,False,False,True
+609,d207f584-b192-44ed-8b70-906e3707fca1,CE-685 Av De la Paz - Insurgentes,685,19.347698842866482,-99.18690070520825,"['KEY', 'CREDITCARD']",27,False,False,False,True
+610,5088ff40-7c1d-4708-8186-a1750bcbeb51,CE-535 Av. Jardín - Orquídea,535,19.461773,-99.162241,"['KEY', 'CREDITCARD']",19,False,False,False,True
+611,9866d726-b989-4b9f-a16d-839d557e0415,CE-544 Salvador Díaz Mirón - Nogal,544,19.449773,-99.163136,"['KEY', 'CREDITCARD']",23,False,False,False,True
+612,c85121cb-d460-4197-b898-cfe6012519a0,CE-505 Mar Negro - Mariano Escobedo,505,19.455319,-99.181368,"['KEY', 'CREDITCARD']",11,False,False,False,True
+613,5ee5cc17-cf60-4a5f-be44-8c4ebf1b2a11,CE-106 San Jerónimo-José María Pino Suarez,106,19.42649,-99.133537,"['KEY', 'CREDITCARD']",23,False,False,False,True
+614,087f622f-aaa2-498e-8e97-883a3aa615d3,CE-695 Malintzin - Allende,695,19.352143,-99.162096,"['KEY', 'CREDITCARD']",23,False,False,False,True
+615,d5947bb1-1d38-418e-99b5-b525c5b004c5,CE-607 Unión Postal - Calzada de Tlalpan,607,19.39091,-99.138953,"['KEY', 'CREDITCARD']",19,False,False,False,True
+616,65b52ca5-13fc-47e0-8552-493cee9d9bf6,CE-690 Tata Vasco - Av. Miguel Ángel de Quevedo,690,19.345966,-99.172975,"['KEY', 'CREDITCARD']",23,False,False,False,True
+617,9c5df01e-8844-406f-a565-7d4b8101c13e,CE-648 Rafael Olivia - 20 de agosto,648,19.354411,-99.147795,"['KEY', 'CREDITCARD']",25,False,False,False,True
+618,5b0348c8-f68c-4ac0-a519-79ad9e39a702,CE-693 Xicoténcatl - Vicente Guerrero,693,19.352531,-99.164913,"['KEY', 'CREDITCARD']",31,False,False,False,True
+619,d5424ee1-e7cd-4b3d-9d90-d681b404cc23,CE-644 Monrovia - Popocatépetl (Eje 8 Sur),644,19.361371,-99.150619,"['KEY', 'CREDITCARD']",19,False,False,False,True
+620,f285d105-2f59-49b0-ba97-a49a884bc6a7,CE-705 Europa - Miguel Ángel de Quevedo,705,19.344107,-99.155933,"['KEY', 'CREDITCARD']",27,False,False,False,True
+621,ddc442d9-63ea-4b99-8593-849162b43d7d,CE-539 Naranjo - Av. Ricardo Flores Magon,539,19.4551042,-99.1576905,"['KEY', 'CREDITCARD']",23,False,False,False,True
+622,3498e4d3-ad74-4d83-b15b-836c1098b20f,CE-538 Eligio Ancona - Técnico Industrial,538,19.453663,-99.163756,"['KEY', 'CREDITCARD']",7,False,False,False,True
+623,3f13eb96-7ef3-4f0b-8396-7260f58cdd34,CE-588  Av. Fernando - La coruña,588,19.401175,-99.13748,"['KEY', 'CREDITCARD']",31,False,False,False,True
+624,1807a0ee-0ccc-4ab2-bf04-9bd6bed14768,CE-558 Chimalpopoca - Simón Bolívar,558,19.4223,-99.139872,"['KEY', 'CREDITCARD']",27,False,False,False,True
+625,cb8ed1e9-49e2-46c3-bf49-5d8ce499b665,CE-593 Zempoala - Diagonal de San Antonio,593,19.401018,-99.147952,"['KEY', 'CREDITCARD']",31,False,False,False,True
+626,0d1c60f1-03ca-4f3a-87e0-22e71eb6fd24,CE-699 San Gregorio - Felipe Carrillo Puerto,699,19.346895,-99.163868,"['KEY', 'CREDITCARD']",23,False,False,False,True
+627,3d9a2676-293d-4746-a6a8-190dfe77ee0d,CE-490 Lago Garda - FFCC,490,19.448935,-99.179295,"['KEY', 'CREDITCARD']",7,False,False,False,True
+628,cbf2e54c-341d-4cf8-b105-a4508e3b87cc,CE-627 San Borja - Av. Universidad,627,19.382606,-99.156592,"['KEY', 'CREDITCARD']",31,False,False,False,True
+629,3fa3194e-7176-46bf-9e83-8fe7b32b4e74,CE-621 Lago Poniente - Calzada de Tlalpan,621,19.379458,-99.140943,"['KEY', 'CREDITCARD']",26,False,False,False,True
+630,f63eda2b-0463-48ba-934f-05cb219ffa08,CE-605 5 de Febrero - Alfonso XIII,605,19.395084,-99.139519,"['KEY', 'CREDITCARD']",27,False,False,False,True
+631,df4ef77c-93b0-4d5c-953c-2b1a603116f7,CE-674 Silvestre Revueltas - Macedonio Alcalá,674,19.361846,-99.186814,"['KEY', 'CREDITCARD']",27,False,False,False,True
+632,15b18795-a678-4322-aacf-14912a56fe90,CE-528 Tlatilco - Av. Jardín,528,19.464964,-99.160455,"['KEY', 'CREDITCARD']",27,False,False,False,True
+633,ec504b74-05c9-4212-94f2-bbc8f2d524a6,CE-598 Palenque - Cumbres de Maltrata,598,19.3931,-99.152012,"['KEY', 'CREDITCARD']",31,False,False,False,True
+634,33d6c0f1-6bb6-4f0e-9aa2-4c0cebbd940d,CE-671 Plateros - Jose María Velasco,671,19.364577,-99.186288,"['KEY', 'CREDITCARD']",36,False,False,False,True
+635,3588ae4c-505e-42b3-aabd-efbc4cb5ed0b,CE-583 Ángel del Campo - 5 de Febrero,583,19.408087,-99.137763,"['KEY', 'CREDITCARD']",35,False,False,False,True
+636,89019dea-76fc-4748-ab7c-1d3cf6ab0038,CE-493 Lago Tláhuac - Laguna de Guzmán,493,19.445916,-99.170401,"['KEY', 'CREDITCARD']",19,False,False,False,True
+637,77c82cd9-8157-45ce-8837-5f2e746145ad,CE-572 Manuel J. Othón - 5 de Febrero,572,19.414595,-99.135886,"['KEY', 'CREDITCARD']",11,False,False,False,True
+638,a844e2a7-9b0a-4008-b242-5947f7216692,CE-596 Cumbres de Maltrata - Uxmal,596,19.395205,-99.155049,"['KEY', 'CREDITCARD']",27,False,False,False,True
+639,e425a2fa-1f58-46ac-b2b2-073baa39ad7c,CE-487 Atzayacatl - Quetzalcoatl,487,19.439741,-99.168901,"['KEY', 'CREDITCARD']",7,False,False,False,True
+640,ef4f9ca3-cbda-4ab2-a6ed-af1d3f75f7a4,CE-442  Real de Mayorazgo - Avenida México - Coyoacán,442,19.359863,-99.165065,"['KEY', 'CREDITCARD']",23,False,False,False,True
+641,4f988082-31ee-4e88-af74-4977746a725e,CE-570 Alfredo Chavero - Simón Bolívar,570,19.417595,-99.140972,"['KEY', 'CREDITCARD']",27,False,False,False,True
+642,b9b99c2d-bea6-4997-ae36-28634a5c4bd1,CE-647 Antillas - Nevado,647,19.359256,-99.144433,"['KEY', 'CREDITCARD']",23,False,False,False,True
+643,3dc953e3-6ca3-4904-8719-1dc74ad19812,CE-608 Ahorro Postal - Francisco Márquez,608,19.3884304,-99.1397718,"['KEY', 'CREDITCARD']",51,False,False,False,True
+644,9abe1269-23a8-4cb0-8a45-4e4db984cf0d,CE-698 Cerrada Zamora - Av. Miguel Ángel de Quevedo,698,19.344873,-99.16357,"['KEY', 'CREDITCARD']",15,False,False,False,True
+645,ae4c7c61-80f7-4d7e-95d0-93705df58e36,CE-610  Av. Víctor Hugo - Av. Niños Héroes de Chapultepec,610,19.387174,-99.143708,"['KEY', 'CREDITCARD']",31,False,False,False,True
+646,9660c1a0-ddf3-461f-95f4-a0658777a137,CE-641 Sevilla - Av. Presidentes,641,19.368156,-99.151883,"['KEY', 'CREDITCARD']",23,False,False,False,True
+647,9be5b9f9-291c-44b2-a99f-804b73314bbc,CE-534 Tlatilco - Jazmín,534,19.4587727,-99.1644993,"['KEY', 'CREDITCARD']",23,False,False,False,True
+648,9d6e5e44-094d-4069-984f-16ba79ba6160,CE-574 José María Roa Bárcenas - Simón Bolívar,574,19.411768,-99.140899,"['KEY', 'CREDITCARD']",15,False,False,False,True
+649,6659a9a6-d43b-4726-b742-5b74e572ffd4,CE-616 Petén - Eje 5 Sur,616,19.384876,-99.153594,"['KEY', 'CREDITCARD']",7,False,False,False,True
+650,b7c9ca3e-0a2b-48d9-af21-0329be7f9fd6,CE-646  Rumania - Av. Popocatépetl,646,19.360545,-99.147501,"['KEY', 'CREDITCARD']",27,False,False,False,True
+651,fe3b6314-e3c2-4e94-8112-d851974bf2c1,CE-489 Lago Chalco - Laguna Tamiahua,489,19.446383,-99.17598,"['KEY', 'CREDITCARD']",27,False,False,False,True
+652,c26e6297-b597-4d7f-8db3-1dbee36edaff,CE-614 Torres Adalid - Av. Cuauhtémoc,614,19.389293,-99.156348,"['KEY', 'CREDITCARD']",27,False,False,False,True
+653,a136d3c5-1405-47f6-a8bb-b7f732a6f990,CE-632 Victor Hugo - Sevilla,632,19.370891,-99.151577,"['KEY', 'CREDITCARD']",27,False,False,False,True
+654,e13b9b82-8bcc-4584-9298-552558c2b60a,CE-625 Zempoala - Angel Urraza,625,19.379442,-99.150064,"['KEY', 'CREDITCARD']",19,False,False,False,True
+655,fa94e5eb-4b98-470b-ac34-1d36b1040ae1,CE-581 José María Roa Bárcenas - San Antonio Abad,581,19.411398,-99.135655,"['KEY', 'CREDITCARD']",27,False,False,False,True
+656,17dc072d-8941-476d-ae85-397cadc51581,CE-513 Av. Aquiles Serdán - Av. Invierno,513,19.469578,-99.189828,"['KEY', 'CREDITCARD']",39,False,False,False,True
+657,77babcfd-8628-43af-839a-34cd4193da96,CE-197 Presa Falcón - Miguel De Cervantes Saavedra,197,19.440924618966452,-99.20504942541811,"['KEY', 'CREDITCARD']",31,False,False,False,True
+658,d916b9fe-7843-40cc-988a-3ce4bba5545c,CE-576 Doctor Arce - Jose Maria Vertiz,576,19.413464371675584,-99.14802946153031,"['KEY', 'CREDITCARD']",27,False,False,False,True
+659,438e9efd-d3bc-462b-842e-baf9ca869d11,CE-520 Salónica - Eje 3 Norte Camarones,520,19.470699086375355,-99.17832344770432,"['KEY', 'CREDITCARD']",33,False,False,False,True
+660,a16e9470-7103-44a7-bfc3-aaace064d45e,CE-606 Alfonso XIII - Aragón,606,19.394974,-99.138949,"['KEY', 'CREDITCARD']",27,False,False,False,True
+662,825e06e4-f9d0-4efc-b95d-798489ee2fdb,CE-566 Dr. Jiménez - Dr. García Diego,566,19.416239,-99.149542,"['KEY', 'CREDITCARD']",23,False,False,False,True
+663,bd66edda-ca7f-412f-90c3-b73187414474,CE-565 Dr. Martinez del Rio - Dr. Lucio,565,19.4176712000745,-99.15278613567352,"['KEY', 'CREDITCARD']",23,False,False,False,True
+664,d58aa1fb-ae84-4f67-97c0-c3093ade5f4b,CE-587 Jose Toribio Medina - Marcelino Davalos,587,19.404668302672064,-99.13694635033607,"['KEY', 'CREDITCARD']",27,False,False,False,True
+665,4102c9c1-039f-437c-91a0-5caa72ffea29,CE-586 Bernardo Couto-Juan E. Hernández y Davalos,586,19.40632606093993,-99.13877864484675,"['KEY', 'CREDITCARD']",27,False,False,False,True
+666,3b0f3443-c2d4-4351-bed8-e216ea49129a,CE-526 Toronjil - Mejorana,526,19.466952,-99.162928,"['KEY', 'CREDITCARD']",19,False,False,False,True
+667,b5034ef6-d722-4600-a6a4-5260034ab1d9,CE-547 Dr. Enrique González Martínez - Salvador Díaz Mirón,547,19.447481,-99.155443,"['KEY', 'CREDITCARD']",31,False,False,False,True
+668,44bebb33-984d-4480-aca2-7556e440fe56,CE-488 Huetzin - Cuitláhuac,488,19.444812,-99.170307,"['KEY', 'CREDITCARD']",31,False,False,False,True
+669,ac68c854-8069-40d5-810e-d0c6d8320ce8,CE-683 Pedro Luis Ogazón-Insurgentes Sur,683,19.35038263626101,-99.18722301721573,"['KEY', 'CREDITCARD']",27,False,False,False,True
+670,40bdf158-4aa0-44a7-b005-83f0051f5b60,CE-582 Antonio Solis-San Antonio Abad,582,19.40948,-99.135894,"['KEY', 'CREDITCARD']",19,False,False,False,True
+671,6d4eb99a-236b-442d-963a-61c0002e3fed,CE-522 Prol. Nueces - Av. Cuitlahuac,522,19.470597,-99.1700529,"['KEY', 'CREDITCARD']",27,False,False,False,True
+672,e042e83e-d1b2-4822-9021-27b8a353f3e3,CE-523 Toronjil - Av. Cuitlahuac,523,19.471112,-99.165294,"['KEY', 'CREDITCARD']",19,False,False,False,True
+673,58fb60b2-723a-45ec-96ce-9ee66af5e549,CE-508 Libertad-C. José Sánchez Trujillo,508,19.462364,-99.183671,"['KEY', 'CREDITCARD']",19,False,False,False,True
+674,15c42e7e-58df-4881-869f-c65023db96bf,CE-515 Tebas-C. Salónica,515,19.469621805880028,-99.18408215045929,"['KEY', 'CREDITCARD']",19,False,False,False,True
+678,e1e2e11d-683f-468a-8ecb-6bb440eea06e,CE-532  Av. Biólogo Maximino Martínez - Camarones,532,19.4608358,-99.1711512,"['KEY', 'CREDITCARD']",23,False,False,False,True
+681,d7e7ebcf-c8e1-4706-8ade-a39a02746745,CE-509  Juárez - Venecia,509,19.459686,-99.1817781,"['KEY', 'CREDITCARD']",19,False,False,False,True
+682,00e1da38-bffd-41e3-96b5-c340e7ff2b2a,CE-533  Av Plan de San Luis - Eulalia Gúzman,533,19.4604943,-99.1672704,"['KEY', 'CREDITCARD']",23,False,False,False,True
+683,c2821ebe-6933-4b30-98cb-1ca3b3f35ec5,CE-440  Martin Mendalde - M. López Cotilla,440,19.3617925,-99.1714707,"['KEY', 'CREDITCARD']",27,False,False,False,True
+685,afb2c18b-b010-40de-ba07-0fa6288dc5e4,CE-680  Diego Becerra - Av. Revolución,680,19.3667184,-99.1883241,"['KEY', 'CREDITCARD']",27,False,False,False,True
+688,886c46bc-d6cc-477e-ad1e-2b980446fba7,Sup002,Sup002,0.0,0.0,"['KEY', 'CREDITCARD']",0,False,False,False,False
+689,4f90cbe8-e841-4614-9274-93b86def30df,1123,1123,0.0,0.0,"['KEY', 'CREDITCARD']",0,False,False,False,False
