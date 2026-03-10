@@ -85,7 +85,7 @@ if mode == "Usar archivos del repo (data/)":
         st.session_state["trips"] = load_trips_from_path(str(trips_s_path))
         st.sidebar.success("eco_bici_trips_s.csv cargado")
     else:
-        st.sidebar.info("No se puede usar eco_bici_trips.csv (opcional) porque es demasiado grande para subirlo a gitgub.")
+        st.sidebar.info("No se puede usar eco_bici_trips.csv (opcional) porque es demasiado grande para subirlo a github.")
 
 else:
     st.sidebar.caption("No puedes subir archivos.")
