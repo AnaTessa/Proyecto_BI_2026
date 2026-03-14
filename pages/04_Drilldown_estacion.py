@@ -1,13 +1,23 @@
 from __future__ import annotations
 
+import numpy as np
 import pandas as pd
-import plotly.express as px
+import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="Ecobici BI | Drill-down", layout="wide")
+from statsmodels.tsa.statespace.sarimax import SARIMAX
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 
-st.title("Drill-down por estación")
-st.write("Explora una estación específica: serie de tiempo + KPIs de nivel de servicio.")
+st.set_page_config(page_title="Ecobici BI | Forecast", layout="wide")
+
+st.title("Pronóstico de estaciones Ecobici (SARIMA)")
+
+st.write(
+"""
+Modelo de pronóstico usando SARIMA con validación temporal,
+intervalos de confianza y métricas de error.
+"""
+)
 
 if "station_data" not in st.session_state:
     st.info("Primero carga `station_data.csv` en la página principal.")
@@ -16,41 +26,170 @@ if "station_data" not in st.session_state:
 sd = st.session_state["station_data"]
 
 station_ids = sorted(sd["station_id"].unique().tolist())
+
 metric_map = {
     "Bikes available": "num_bikes_available",
-    "Docks available": "num_docks_available",
-    "Bikes disabled": "num_bikes_disabled",
-    "Docks disabled": "num_docks_disabled",
     "Balance ratio": "balance_ratio",
 }
 
 with st.sidebar:
-    st.header("Selección")
-    station_id = st.selectbox("station_id", station_ids, index=0)
-    metric_label = st.selectbox("Métrica", list(metric_map.keys()), index=0)
-    resample = st.selectbox("Resample", ["30min", "1H", "1D"], index=2)
+
+    st.header("Parámetros")
+
+    station_id = st.selectbox("station_id", station_ids)
+
+    metric_label = st.selectbox(
+        "Métrica",
+        list(metric_map.keys())
+    )
+
+    resample = st.selectbox(
+        "Frecuencia",
+        ["30min", "1H", "1D"],
+        index=1
+    )
+
+    st.subheader("ARIMA")
+
+    p = st.slider("p",0,5,1)
+    d = st.slider("d",0,2,1)
+    q = st.slider("q",0,5,1)
+
+    st.subheader("Seasonal")
+
+    P = st.slider("P",0,3,1)
+    D = st.slider("D",0,2,1)
+    Q = st.slider("Q",0,3,1)
+
+    if resample == "1H":
+        s = 24
+    elif resample == "30min":
+        s = 48
+    else:
+        s = 7
+
+    horizon = st.slider("Horizonte forecast",6,96,24)
 
 col = metric_map[metric_label]
 
-_df = sd[sd["station_id"] == int(station_id)].sort_values("timestamp")
+_df = sd[
+    (sd["station_id"] == int(station_id))
+].sort_values("timestamp")
 
-# Basic KPIs
-has_bike = (_df["num_bikes_available"] >= 1).mean()
-has_dock = (_df["num_docks_available"] >= 1).mean()
-has_both = ((_df["num_bikes_available"] >= 1) & (_df["num_docks_available"] >= 1)).mean()
+series = (
+    _df
+    .set_index("timestamp")[col]
+    .dropna()
+    .resample(resample)
+    .mean()
+    .interpolate()
+)
 
-c1, c2, c3 = st.columns(3)
-c1.metric("% con >=1 bici", f"{has_bike*100:.1f}%")
-c2.metric("% con >=1 dock", f"{has_dock*100:.1f}%")
-c3.metric("% con ambos", f"{has_both*100:.1f}%")
+if len(series) < 50:
+    st.warning("Serie demasiado corta")
+    st.stop()
 
-# Time series
-s = _df.set_index("timestamp")[col]
+split = int(len(series)*0.8)
 
-plot_df = s.reset_index().rename(columns={0: col, col: "value"})
-fig = px.line(plot_df, x="timestamp", y="value", title=f"{metric_label} – station_id={station_id}")
+train = series[:split]
+test = series[split:]
 
-st.plotly_chart(fig, use_container_width=True)
+run = st.button("Entrenar modelo")
 
-with st.expander("Ver datos de la estación"):
-    st.dataframe(_df.head(200), use_container_width=True)
+if run:
+
+    with st.spinner("Entrenando SARIMA..."):
+
+        model = SARIMAX(
+            train,
+            order=(p,d,q),
+            seasonal_order=(P,D,Q,s),
+            enforce_stationarity=False,
+            enforce_invertibility=False
+        )
+
+        results = model.fit()
+
+        forecast_test = results.forecast(len(test))
+
+        mae = mean_absolute_error(test, forecast_test)
+
+        rmse = np.sqrt(
+            mean_squared_error(test, forecast_test)
+        )
+
+        fc = results.get_forecast(steps=horizon)
+
+        fc_mean = fc.predicted_mean
+        fc_conf = fc.conf_int()
+
+        fc_index = pd.date_range(
+            series.index[-1],
+            periods=horizon+1,
+            freq=resample
+        )[1:]
+
+    col1,col2 = st.columns(2)
+
+    col1.metric("MAE",round(mae,2))
+    col2.metric("RMSE",round(rmse,2))
+
+    fig = go.Figure()
+
+    fig.add_trace(
+        go.Scatter(
+            x=train.index,
+            y=train.values,
+            name="Train"
+        )
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=test.index,
+            y=test.values,
+            name="Test"
+        )
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=test.index,
+            y=forecast_test,
+            name="Test Forecast"
+        )
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=fc_index,
+            y=fc_mean,
+            name="Future Forecast"
+        )
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=fc_index,
+            y=fc_conf.iloc[:,0],
+            line=dict(width=0),
+            showlegend=False
+        )
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=fc_index,
+            y=fc_conf.iloc[:,1],
+            fill='tonexty',
+            name="Confidence Interval"
+        )
+    )
+
+    fig.update_layout(
+        title=f"SARIMA({p},{d},{q})({P},{D},{Q},{s}) – {metric_label}",
+        xaxis_title="Time",
+        yaxis_title=metric_label
+    )
+
+    st.plotly_chart(fig, use_container_width=True)
