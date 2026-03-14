@@ -83,11 +83,12 @@ def suggest_rebalancing_moves(target_ratio=0.5, buffer=2, top_moves=30):
 
         snap = snap.merge(cap,on="station_id",how="left")
 
-        snap["capacity_final"] = snap["capacity"].fillna(snap["capacity_est"])
-
-    else:
-
-        snap["capacity_final"] = snap["capacity_est"]
+        if "capacity" in snap.columns:
+            snap["capacity_final"] = snap["capacity"]
+        elif "capacity_est" in snap.columns:
+            snap["capacity_final"] = snap["capacity_est"]
+        else:
+            snap["capacity_final"] = snap["num_bikes_available"]
 
 
     snap["desired_bikes"] = (snap["capacity_final"] * target_ratio).round().astype(int)
