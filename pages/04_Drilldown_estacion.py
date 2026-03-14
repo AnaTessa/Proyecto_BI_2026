@@ -28,7 +28,7 @@ with st.sidebar:
     st.header("Selección")
     station_id = st.selectbox("station_id", station_ids, index=0)
     metric_label = st.selectbox("Métrica", list(metric_map.keys()), index=0)
-    resample = st.selectbox("Resample", ["None", "30min", "1H", "1D"], index=2)
+    resample = st.selectbox("Resample", ["30min", "1H", "1D"], index=2)
 
 col = metric_map[metric_label]
 
@@ -46,9 +46,6 @@ c3.metric("% con ambos", f"{has_both*100:.1f}%")
 
 # Time series
 s = _df.set_index("timestamp")[col]
-
-if resample != "None":
-    s = s.resample(resample).mean().interpolate(limit_direction="both")
 
 plot_df = s.reset_index().rename(columns={0: col, col: "value"})
 fig = px.line(plot_df, x="timestamp", y="value", title=f"{metric_label} – station_id={station_id}")
