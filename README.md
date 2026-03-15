@@ -79,3 +79,62 @@ El proyecto fue desarrollado utilizando las siguientes herramientas:
 # Estructura del Proyecto
 
 El proyecto sigue una estructura modular utilizando múltiples páginas de Streamlit:
+
+project/
+│
+├── app.py
+├── pages/
+│ ├── 01_Data_Exploration.py
+│ ├── 02_Visualization.py
+│ ├── 03_Map_Analysis.py
+│ ├── 04_Station_Insights.py
+│ └── 05_Pronostico_ARIMA.py
+│
+├── data/
+│ └── station_data.csv
+│
+├── requirements.txt
+└── README.md
+
+
+Cada archivo dentro de la carpeta `pages` corresponde a un módulo específico del dashboard.
+
+---
+
+# Despliegue de la Aplicación
+
+La aplicación fue desplegada utilizando **Streamlit Cloud** a partir de un repositorio en **GitHub**.
+
+## Proceso de despliegue
+
+### 1. Creación del repositorio en GitHub
+
+El código completo del proyecto se subió a un repositorio que incluye:
+
+- Archivos de la aplicación en Python
+- Archivos de datos
+- Archivo `requirements.txt`
+- Archivo `README.md`
+
+---
+
+### 2. Definición de dependencias
+
+El archivo `requirements.txt` contiene las librerías necesarias para ejecutar la aplicación.
+
+
+Cuando la aplicación se despliega, Streamlit Cloud instala automáticamente estas dependencias.
+
+---
+
+### 3. Conexión con Streamlit Cloud
+
+El despliegue se realizó siguiendo estos pasos:
+
+1. Iniciar sesión en Streamlit Cloud
+2. Seleccionar **“New App”**
+3. Conectar el repositorio de GitHub
+4. Seleccionar el archivo principal de la aplicación (`app.py`)
+5. Lanzar la aplicación
+
+Streamlit Cloud se encarga automáticamente de construir y ejecutar la aplicación.
